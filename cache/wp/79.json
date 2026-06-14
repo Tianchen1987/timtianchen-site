@@ -1,0 +1,141 @@
+{
+"ID": 79,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2017-04-15T13:55:00+01:00",
+"modified": "2022-01-20T13:56:35+01:00",
+"title": "What music means to me",
+"URL": "https://timtianchen.wordpress.com/2017/04/15/what-music-means-to-me/",
+"short_URL": "https://wp.me/p7HHqt-1h",
+"content": "\n<p class=\"wp-block-paragraph\">If you were expecting a manifesto of my excellent musical taste, you will be sorely disappointed.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Of course I listen to music, on a daily basis. I even subscribe as a paid customer to Spotify. What I lack however, I will explain. 1) What I notice from other people is that music invoke some kind of emotion. It seems that there are songs which they connect to, songs that don’t, and songs they love or hate. 2) There seems to also be a need to seek out good music, to leaf through tracks in a bin to find The one, both metaphorically and literally. 3) Lastly, people have a taste for sound, and can gauge how good a speaker is.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I have none of these three qualities, and by god have I tried, with no success, to cultivate them as not to appear uncultured. Over these years of trying, I have some introspection that I can share with limited embarrassment. Please don’t think these are hyperbolic to make a point, I literally mean them.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I rarely listen to the lyrics of a song. As such, I have no idea what the message of a song is delivering.I cannot remember the lyrics of a single song (aside from happy birthday). This is no exaggeration. From radio-popular songs, I can perhaps remember one or two catchy lines, but that is it.I am completely tone deaf, to a point where I don’t understand what it means to not be tone deaf. I cannot tell the difference between a speaker that costs 10 dollars and one that costs 1,000 (assuming price is proportional to quality, but to me there is no other gauge).I practiced piano, at the insistence of my mom, for 8 years. I still have zero feeling towards the sounds a piano makes. Mechanically I can read sheet music and accurately hit the keys, I even got some qualifications for it. However, the only way I can detect errors is by remembering what I did correctly the previous times.I listen to music because I enjoy the songs. The catchier a song is, the better it is in my ears. The fact that the pitches are completely autotone corrected doesn’t matter to me. That Rebecca Black song about friday was pretty good!My choice of music therefore can be categorized as teen pop from the 90’s. While I don’t believe a computer generated song can get a high rating from all listeners, I am pretty sure I will be satisfied by it completely.As I said above, I gauge the quality of speakers or a pair of headphones by their price tag and the features they have. I recently bought a pair of Airpods because they are wireless (I love wireless things). My appreciation for the sound that comes out is limited to how loud they are.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I don’t have an explanation in general for why some people have taste in music and others like me have not. In my particular case, I can think of two reasons.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> didn’t grow up with music. While kids listen to music every minute of their lives, I spent most of my childhood in China and had no access to music. I had several quite severe ear infections when I was young.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Before you call me a uncouth brute, I do have an appreciation in art. But that is another subject.</p>\n",
+"excerpt": "<p>If you were expecting a manifesto of my excellent musical taste, you will be sorely disappointed. Of course I listen to music, on a daily basis. I even subscribe as a paid customer to Spotify. What I lack however, I will explain. 1) What I notice from other people is that music invoke some kind [&hellip;]</p>\n",
+"slug": "what-music-means-to-me",
+"guid": "https://timtianchen.wordpress.com/?p=79",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "5e97d1af87755bbfdb2ff00a78470a23",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 6,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_format": {},
+"mentions": {}
+},
+"tags": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 6,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/79",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/79/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/79/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/79/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

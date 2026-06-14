@@ -1,0 +1,111 @@
+{
+"ID": 115,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2015-03-04T20:43:00+01:00",
+"modified": "2022-01-22T20:43:58+01:00",
+"title": "Difficulties with supervising",
+"URL": "https://timtianchen.wordpress.com/2015/03/04/difficulties-with-supervising/",
+"short_URL": "https://wp.me/p7HHqt-1R",
+"content": "\n<p class=\"wp-block-paragraph\">How much help do you give your students?</p>\n\n\n\n<p class=\"wp-block-paragraph\">With any luck, the master thesis project you are supervising is something you can do yourself. Then comes the question, how much do you share your thoughts on how it should be done? From the student’s perspective, the obvious solution to overcome any problem, big or small, is to ask the supervisor. That was what I did at Delft, and thankfully the questions I asked were not silly things that constituted grounds for grade deduction (independence was a criterion!).</p>\n\n\n\n<p class=\"wp-block-paragraph\">Clearly, for a project that I can sort of see how to do, at least on a theoretical level. Here I am reminded of Feynman’s lecture titled “There’s Plenty of Room at the Bottom”, where he theorized nanotechnology, saying “I will not now discuss how we are going to do it, but only what is possible in principle – in other words, what is possible according to the laws of physics”. It is wise to discuss a problem, and theorize the potential difficulties and such. It may not be as wise to discuss detailed solutions or to lay out the implementation of such solutions, as the student can usually come up with something better. Of course, discussion at such an abstraction offers really no immediate help to the students other than making them think more. It is a little frustrating, especially when they know you may have the answer, or at least, an answer that is good enough, and you are withholding it intentionally.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I keep on reminding myself that a master student is pretty much a scholar already. Nothing suggests that I necessarily know better, therefore what I say may derail their train of thought.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Two years and five students later, what I wrote above still rings true. From each student, I start get a sense of what they enjoy doing, and what they detest. On an intellectual level, both the student and I know that what they detest doing still need to be done, at least if they want to have an excellent grade. However, it is very difficult for me to push them out of their comfort zone to explore what is difficult. Some students loved physical prototyping and did not want to simulate anything. Others never wanted to get their hands dirty. Still others who did not want to try anything that may not work in the end.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Though it may sound like I am bitching here, I confess I have the same issues. My message to the students is,</p>\n\n\n\n<p class=\"wp-block-paragraph\">I still have this romantic notion that this is your education, not my way of getting a paper out of you. You are expected to learn, and demonstrate that you have learnt. I am not hiring you to do a job which requires you to produce results. Of course having results is wonderful, but it should come as almost a by-product of your education. If what you have done is great, you will be hired to turn what you have done into something that is scientifically publishable.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In the same vein, your knowledge at the end of the thesis is the same as in the beginning, it shows that you haven’t learnt. This is that I would grade negatively.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Failure is results, and in some cases, publishable results.</p>\n",
+"excerpt": "<p>How much help do you give your students? With any luck, the master thesis project you are supervising is something you can do yourself. Then comes the question, how much do you share your thoughts on how it should be done? From the student’s perspective, the obvious solution to overcome any problem, big or small, [&hellip;]</p>\n",
+"slug": "difficulties-with-supervising",
+"guid": "https://timtianchen.wordpress.com/?p=115",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "4a6d9ea46f21e8acea7f927d2a3bb9bb",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/115",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/115/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/115/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/115/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

@@ -1,0 +1,111 @@
+{
+"ID": 43,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2017-09-10T18:48:00+01:00",
+"modified": "2022-01-22T21:00:16+01:00",
+"title": "There is no free lunch",
+"URL": "https://timtianchen.wordpress.com/2017/09/10/there-is-no-free-lunch/",
+"short_URL": "https://wp.me/p7HHqt-H",
+"content": "\n<p class=\"wp-block-paragraph\">Impression of the book “Free” by Chris Anderson (the founder of TED talks) after first read.</p>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img loading=\"lazy\" width=\"477\" height=\"291\" data-attachment-id=\"129\" data-permalink=\"https://timtianchen.wordpress.com/tinfl/\" data-orig-file=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/01/tinfl.png\" data-orig-size=\"477,291\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"tinfl\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/01/tinfl.png?w=477\" src=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/01/tinfl.png?w=477\" alt=\"\" class=\"wp-image-129\" srcset=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/01/tinfl.png 477w, https://timtianchen.wordpress.com/wp-content/uploads/2022/01/tinfl.png?w=150 150w, https://timtianchen.wordpress.com/wp-content/uploads/2022/01/tinfl.png?w=300 300w\" sizes=\"auto, (max-width: 477px) 100vw, 477px\" /></figure></div>\n\n\n\n<p class=\"wp-block-paragraph\">The opinions and analyses of the author are more or less self evident. He managed to put down with a pen what people understand instinctively. however, this is not meant to be disparaging his work, the fact that he can clearly elucidate these new technological and social developments, and relate them to age-old principles of economy is worth noting.</p>\n\n\n\n<p class=\"wp-block-paragraph\">He states that there are four kinds of free. The first two have been employed as market tactics forever. The first is buy one get one free, buy one get the next at 50% or a variation thereof. The second is the giving away of trial products, e.g. samples, movie trailers, game demos, etc.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Then there are the two new forms of free. The first largely derives from the fact that the per-item cost of products approach zero.</p>\n\n\n\n<p class=\"wp-block-paragraph\">He then explores the social and psychological implications of free. He borrows from a very interesting book called “Predictably Irrational” by Dan Ariely, who also devotes a section of his book on the principle of free. They both pose the question “Why is free so different from almost free?” The obvious answer is the removal of this psychological barrier erected eons ago to prevent people from frivolously wasting their precious resources and go hungry.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The two main takeaways for me are, 1) when resources are no longer scarce, don’t pretend that they still are, and make the most use of this abundance. His example of the price decline (from 5 dollars to 0.0000015 cents) and miniaturization of transistors, and Intel’s leverage of that to make integrated circuits and CPUs.</p>\n\n\n\n<p class=\"wp-block-paragraph\">2) The increasingly precious commodity of human attention. He said we all have only 24 hours a day, and we gotta eat, sleep and (I add) go to the bathroom.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Sidebar, the phrase “there is no free lunch” actually comes from regulations that clamp down on US bars in the olden days that would offer free lunch to anyone in the hope that they get a drink. This free lunch program fed more people than all the charities, governmental and religious, combined in that period.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Siderbar, I don’t remember why he talked about the paradox of “As you walk towards a wall, you halve your distance, then you halve that distance, and so on and so forth. How will you ever reach that wall since there’s always an ever halving gap between you and the wall?”. I knew mathematically, using sum of geometric sequence, one can get an answer (which is, you can). I didn’t think about the obvious physical phenomenon of electron repulsion force which stops you from ever “touching” the wall.</p>\n",
+"excerpt": "<p>Impression of the book “Free” by Chris Anderson (the founder of TED talks) after first read. The opinions and analyses of the author are more or less self evident. He managed to put down with a pen what people understand instinctively. however, this is not meant to be disparaging his work, the fact that he [&hellip;]</p>\n",
+"slug": "there-is-no-free-lunch",
+"guid": "https://timtianchen.wordpress.com/?p=43",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "d423ebac3f85006db7ea4613e2e90696",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/43",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/43/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/43/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/43/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

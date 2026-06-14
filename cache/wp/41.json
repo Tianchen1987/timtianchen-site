@@ -1,0 +1,111 @@
+{
+"ID": 41,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2022-01-01T14:48:00+01:00",
+"modified": "2022-02-07T16:42:32+01:00",
+"title": "Returning to this",
+"URL": "https://timtianchen.wordpress.com/2022/01/01/returning-to-this/",
+"short_URL": "https://wp.me/p7HHqt-F",
+"content": "\n<p class=\"wp-block-paragraph\">So there is a gap of four or five years between this and the last entry to this blog. I was reminded that the blog still exists recently, on a server that has long deleted my account but somehow kept the blog itself alive. As the blog could be deleted without a moment’s notice, I did the only thing I could without actually having access to the WordPress interface, I manually copied and pasted all the entries into a word document in the hopes that I would repost them somewhere else. This is the somewhere else. And as much as I was just mechanically copying and pasting, I inadvertently read some of what I had written years ago…</p>\n\n\n\n<div class=\"wp-block-jetpack-slideshow aligncenter\" data-effect=\"slide\"><div class=\"wp-block-jetpack-slideshow_container swiper-container\"><ul class=\"wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper\"><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img loading=\"lazy\" width=\"591\" height=\"787\" alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-164\" data-id=\"164\" src=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4143.jpeg?w=591\" srcset=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4143.jpeg 591w, https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4143.jpeg?w=113 113w, https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4143.jpeg?w=225 225w\" sizes=\"(max-width: 591px) 100vw, 591px\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img loading=\"lazy\" width=\"591\" height=\"787\" alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-166\" data-id=\"166\" src=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4138.jpeg\" srcset=\"https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4138.jpeg 591w, https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4138.jpeg?w=113&amp;h=150 113w, https://timtianchen.wordpress.com/wp-content/uploads/2022/02/img_4138.jpeg?w=225&amp;h=300 225w\" sizes=\"(max-width: 591px) 100vw, 591px\" /></figure></li></ul><a class=\"wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white\" role=\"button\"></a><a class=\"wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white\" role=\"button\"></a><a aria-label=\"Pause Slideshow\" class=\"wp-block-jetpack-slideshow_button-pause\" role=\"button\"></a><div class=\"wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white\"></div></div></div>\n\n\n\n<p class=\"wp-block-paragraph\">In the intervening years, I got my PhD from ETH Zurich, I went and did a Post-doc at EPFL, and now I am a professor at the University of Houston. I am still me though, at least I don’t feel like I have actually changed or grown up. I still attend everything that offers free food. I continue to have zero shame. I still walk around with a lopsided grin on my face. Strangers still look at me thinking &#8220;this guy is a bit dim&#8221;. Though at each of these stages, people’s perception of me have changed dramatically. I am now referred to as Dr. Chen now by staff members (no matter how many times I tell them to call me Tim), and as professor Chen by the students. I got rated on ratemyprofessor.com (awful), and on my first ever course evaluation (average). I have my own small office, and run a number of lab rooms.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I haven’t changed, yet somehow, I must have. My mind and my body chronicle what transpired. It’s no lie to say that my hair is thinning and greying. (I wonder which one is going to win out at the end.) My hangovers are getting more severe, and pulling all-nighters have become impossible.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Davide Sedaris has since published two more books, both of which I listened to religiously. Obama is no longer the president, Trump is no longer the president, and Biden is failing miserably. I always felt ambivalent about the United States as it is, though never as it aspires to be. Now I am not sure.</p>\n",
+"excerpt": "<p>So there is a gap of four or five years between this and the last entry to this blog. I was reminded that the blog still exists recently, on a server that has long deleted my account but somehow kept the blog itself alive. As the blog could be deleted without a moment’s notice, I [&hellip;]</p>\n",
+"slug": "returning-to-this",
+"guid": "https://timtianchen.wordpress.com/?p=41",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "570844bc2ad8003a48ca9049eb64dfdd",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/41",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/41/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/41/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/41/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

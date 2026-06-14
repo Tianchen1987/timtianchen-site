@@ -1,0 +1,141 @@
+{
+"ID": 87,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2017-04-02T13:59:00+01:00",
+"modified": "2022-01-20T14:00:09+01:00",
+"title": "Uncanny valley",
+"URL": "https://timtianchen.wordpress.com/2017/04/02/uncanny-valley/",
+"short_URL": "https://wp.me/p7HHqt-1p",
+"content": "\n<p class=\"wp-block-paragraph\">The hypothesis that human replicas which appear almost, but not exactly, like real human beings elicit feelings of eeriness and revulsion among some observers.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\"><p>In aesthetics, the uncanny valley is the hypothesis that human replicas which appear almost, but not exactly, like real human beings elicit feelings of eeriness and revulsion among some observers. Valley denotes a dip in the human observer’s affinity for the replica, a relation that otherwise increases with the replica’s human likeness. Examples can be found in robotics, 3D computer animations, and lifelike dolls among others.</p><cite>Wikipedia</cite></blockquote>\n\n\n\n<p class=\"wp-block-paragraph\">This is a bit disturbing. One would expect that this valley doesn’t exist. Such that the more human-like the thing is, the more familiar one would feel towards it. Many take advantage of this phenomenon to create creepy things like Chucky, Billy the Puppet and hordes of zombie movies. I find this to be a predominantly a western phenomenon. As such, if one looks at the vertical axis of the following graph, it would be hard to define for whom is the thing familiar to.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The example of Billy the Puppet is pretty much a copy of a Bunraku puppet, which I suppose to the Japanese isn’t creepy at all.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The featured image is a screen grab of Final Fantasy: The Spirits Within. The movies is marketed as the first CGI movie that features characters who are indistinguishable from real humans. There you see how Japanese animators visualize western actors, and we observe the creep-factor.</p>\n",
+"excerpt": "<p>The hypothesis that human replicas which appear almost, but not exactly, like real human beings elicit feelings of eeriness and revulsion among some observers. In aesthetics, the uncanny valley is the hypothesis that human replicas which appear almost, but not exactly, like real human beings elicit feelings of eeriness and revulsion among some observers. Valley [&hellip;]</p>\n",
+"slug": "uncanny-valley",
+"guid": "https://timtianchen.wordpress.com/?p=87",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "db139b91bed4272835d45b85a804cf30",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {
+"Observations": {
+"ID": 90,
+"name": "Observations",
+"slug": "observations",
+"description": "",
+"post_count": 4,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_format": {},
+"mentions": {}
+},
+"tags": {
+"Observations": {
+"ID": 90,
+"name": "Observations",
+"slug": "observations",
+"description": "",
+"post_count": 4,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/87",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/87/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/87/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/87/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

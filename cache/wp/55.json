@@ -1,0 +1,111 @@
+{
+"ID": 55,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2017-07-16T14:11:00+01:00",
+"modified": "2022-01-19T14:12:32+01:00",
+"title": "Acrimonious attack on other&#8217;s work",
+"URL": "https://timtianchen.wordpress.com/2017/07/16/acrimonious-attack-on-others-work/",
+"short_URL": "https://wp.me/p7HHqt-T",
+"content": "\n<p class=\"wp-block-paragraph\">This is an excerpt from a review article I read. This article was published in a prestigious journal by an expert of the field. Yet it degenerated into simple name-calling.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I experienced first-hand a very harsh review of a paper I submitted. It is not a rejection perhaps out of pity for me?</p>\n",
+"excerpt": "<p>This is an excerpt from a review article I read. This article was published in a prestigious journal by an expert of the field. Yet it degenerated into simple name-calling. I experienced first-hand a very harsh review of a paper I submitted. It is not a rejection perhaps out of pity for me?</p>\n",
+"slug": "acrimonious-attack-on-others-work",
+"guid": "https://timtianchen.wordpress.com/?p=55",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "4b61985393276e05eebca5fda7ad938a",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/55",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/55/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/55/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/55/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

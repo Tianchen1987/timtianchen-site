@@ -1,0 +1,111 @@
+{
+"ID": 113,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2015-03-31T20:39:00+01:00",
+"modified": "2022-01-22T20:40:42+01:00",
+"title": "Education",
+"URL": "https://timtianchen.wordpress.com/2015/03/31/education/",
+"short_URL": "https://wp.me/p7HHqt-1P",
+"content": "\n<p class=\"wp-block-paragraph\">A teacher should be evaluated partly based on her/his students standard test scores.One comment said to an article on New York Times, “About the ONLY thing you can truly evaluate a teacher on…is INTENT.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">I disagree with such a comment, because intent as we understand it, is part of the equation. The outcome matters more.</p>\n\n\n\n<p class=\"wp-block-paragraph\">As an antithesis, involuntary manslaughter is unintental homicide, it is still punishable. Though it is deemed less culpable than murder for obvious reasons.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Though even if a good intention is the sole ingredient in a teacher’s effectiveness, it would be impossible to measure. Any attempt to measure such a thing would end in overwhelming amount of bias that makes the result garbage.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For the same reason we measure the success of a student by their grade, we should measure the success of a teacher by the student’s grade. For better or worse, a student’s achievement is largely dictated by his or her grades.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For this I refer to a student who is aims to end up in the upper middle class. A good report card dictates to a large extent whether the student ends up in college or not. Along the same lines, a good report card in college leads to a good steady career.</p>\n\n\n\n<p class=\"wp-block-paragraph\">While good grades is not the sole ingredient in success, we have structured our system to rely heavily on the grades. Therefore, an effective teacher should be able to improve the average of his or her class in a standardized test. This is the same as a government’s policy in improving the lives of the middle class.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Therefore instead of relying on the absolute value of the scores, it is important to recognize the student body, and aim for improvement rather than comparison with other schools.<br>As one teacher affects many students, and students are affected by many teachers. The evolution of both can be corrolated.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The other point brought up was the tendency for a teacher to teach for test. That argues that it is a bad thing. However, it is only a bad thing if the test does not reflect what the students need to know. However, the authors of the test is sometimes the same educators who picked the textbooks.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Say that teach for test is indeed a bad thing. We will look at why it is indeed bad. One argument is that the questions on the test do not reflect real life situations. They are not suppose to.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The other, argues that the process becomes a mechanical memorization procedure that doesn’t actually induce learning. That has validity in it. However, a good teacher who encourages deep learning and allows for student reflection would encompass any possible questions that may appear on the test.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Because any questions that mechanical memorization may actually benefit are inherently repetitive and not difficult. The difficult questions require reasoning and logical thoughts.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This is written from the point of view of a STEM course, but similarily, this applies for all subjects where critical analysis is necessary, which in a functional education curriculum, should be all subjects.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Privacy concern is not applicable here because both student and teacher performance is already available to the school administration, and now I am proposing to do something with it.</p>\n",
+"excerpt": "<p>A teacher should be evaluated partly based on her/his students standard test scores.One comment said to an article on New York Times, “About the ONLY thing you can truly evaluate a teacher on…is INTENT.” I disagree with such a comment, because intent as we understand it, is part of the equation. The outcome matters more. [&hellip;]</p>\n",
+"slug": "education",
+"guid": "https://timtianchen.wordpress.com/?p=113",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "4bf020e6327d9c58835ba0588f1476f7",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/113",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/113/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/113/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/113/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

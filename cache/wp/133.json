@@ -1,0 +1,141 @@
+{
+"ID": 133,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2015-02-01T21:04:00+01:00",
+"modified": "2022-01-22T21:05:05+01:00",
+"title": "Differing expectations",
+"URL": "https://timtianchen.wordpress.com/2015/02/01/differing-expectations/",
+"short_URL": "https://wp.me/p7HHqt-29",
+"content": "\n<p class=\"wp-block-paragraph\">I had a talk with a friend who also went from Delft to Arup to ETH, and shared the observations of our first months here.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Between a design firm and a research institute</strong></p>\n\n\n\n<p class=\"wp-block-paragraph\">At Arup, the expectations are short-termed and clear. As we did projects that were more preliminary than detailed design, our work was not exactly refined. Though we are suppose to design these not refined yet good concepts in a short amount of time. This usually means I am expected to come up with a preliminary design in a week, and then revise it with a supervisor for a couple more weeks prior to meeting with the client. The feedback is immediate and clear, so are the next steps. Rarely do I have to explore without a defined goal.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Compare this with here, where there is no short-term expectations, but once in a while, the supervisor would expect results of a unspecified kind. I guess that is called doing science, to explore and figure out what can or cannot be done, and in what time frame.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The quality differs greatly too. At Arup, once the idea can be communicated, the details are not as important. Here, a research paper is a final product, and is expected to be polished as such. Researchers don’t actually produce anything, so the work is the papers, and rarely anything else.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Masters vs. PhD</strong></p>\n\n\n\n<p class=\"wp-block-paragraph\">I don’t think this applies in North America as the two are pretty much the same, with the only difference being the duration. At Delft, the thesis took me 7 months in total, which is the expected length for a masters thesis. There, I did nothing but my thesis for 5 days out of a week (the 2 remaining days were spent in Amsterdam at Arup). There was zero distraction from my supervisor or other responsbilities. There was fair amount of self directing, but the goals were clear and the incremental steps achievable. There was no major huddle in understanding or implementation so the whole process felt like a smooth gradual slope towards completion.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I’ve been here for 6 months, I yet to write a word towards my eventual Dissertation. I am assigned a lot of responsibilities that are not research, but that are much easier to do than research. They are easier precisely because they are not research, whether it is preparing course slides, or printing parts, there is very little brain activity involved. Because these things have deadlines and research really doesn’t, and because it is just that much more difficult, it always takes a back seat in my daily work.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I think at some point in the next months, I will need to force myself to do nothing but research. To read a lot of literature, and implement a workable version of something.</p>\n",
+"excerpt": "<p>I had a talk with a friend who also went from Delft to Arup to ETH, and shared the observations of our first months here. Between a design firm and a research institute At Arup, the expectations are short-termed and clear. As we did projects that were more preliminary than detailed design, our work was [&hellip;]</p>\n",
+"slug": "differing-expectations",
+"guid": "https://timtianchen.wordpress.com/?p=133",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "19468d85fb16304e02597536dddfa91e",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 6,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_format": {},
+"mentions": {}
+},
+"tags": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 6,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/133",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/133/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/133/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/133/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

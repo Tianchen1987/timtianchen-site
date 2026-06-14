@@ -1,0 +1,111 @@
+{
+"ID": 110,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2015-03-31T20:36:00+01:00",
+"modified": "2022-01-22T20:39:33+01:00",
+"title": "Effective visual presentations",
+"URL": "https://timtianchen.wordpress.com/2015/03/31/effective-visual-presentations/",
+"short_URL": "https://wp.me/p7HHqt-1M",
+"content": "\n<p class=\"wp-block-paragraph\">Why are those slides so damn pretty?!</p>\n\n\n\n<p class=\"wp-block-paragraph\">To the 99% percenters, visual presentation amounts to powerpoint slides. Some may refer to them as a deck of powerpoint slides, as frustrating as such a name sound.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I am not saying powerpoint is bad, in fact it is probably necessary when trying to elucidate your ideas. What is bad is using the features offered by powerpoint or Prezi (which is far worse when used for actual presentations where you are suppose to be the center of attention).</p>\n\n\n\n<p class=\"wp-block-paragraph\">The thing is, we know how to make good powerpoints, there are numerous guides on how to make the best powerpoints. We have examples on what constitutes as good powerpoints.<br>Then why do we as researchers and engineers make really really crappy slides?</p>\n\n\n\n<p class=\"wp-block-paragraph\">We don&#8217;t put in the effort. Successful presenters practice over and over and over again, until they can practically memorize every single word of what they will say.</p>\n\n\n\n<p class=\"wp-block-paragraph\">We often look at visually pleasing ppts and despair thinking that we can never make our slides look as nice. Not knowing that these visually pleasing ppts have no content, they are made to demostrate the visual aspects of slides, and not to present any real ideas.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Here are some practical ideas that will appeal to the analytical side of you</p>\n\n\n\n<p class=\"wp-block-paragraph\">Align things with numerical precision (this borders OCD)we work with precision in all other aspects of our work, but when it comes to making slides, we tend to just drag things here and there, and align them visually. That is an awful awful way to do things. One screen is x by y. You can get a ruler and measure it.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Fit to the aspect ratio. When have you seen a ppt that actually fits to the wide screen aspect ratio that has become the standard in ALL monitors and projectors alike? None.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Resolution, we still don&#8217;t have a good understanding of what resolution means. We can save data in any resolution we like, though a screen has 72 dot per sq inch, and a typical printer requires 300 dot per sq inch or higher. If you want to print your slides, make sure everything is at least 300 dot per sq inch.Scale down, never scale up</p>\n\n\n\n<p class=\"wp-block-paragraph\">Zero animation unless your thing actually moves like that. Some slide to slide transition may be okay.We make a lot of graphs to be sure. Scatter plots, histograms, distributions, etc. My advise is to not use excel but instead, use something that makes them look nicer. Latex tik package is one, or seaborn with python.beamer – latex, if you were to make a serious slide show presentation, use latex. It is more work, but it also forces you to do without things that distract the audience from you.</p>\n\n\n\n<ul class=\"wp-block-list\"><li>Connecting with varied audiences</li><li>Owning the stage</li><li>Building your online presence</li><li>Establishing your professional identity</li><li>Collaboration</li><li>Successful Networking Techniques</li></ul>\n",
+"excerpt": "<p>Why are those slides so damn pretty?! To the 99% percenters, visual presentation amounts to powerpoint slides. Some may refer to them as a deck of powerpoint slides, as frustrating as such a name sound. I am not saying powerpoint is bad, in fact it is probably necessary when trying to elucidate your ideas. What [&hellip;]</p>\n",
+"slug": "effective-visual-presentations",
+"guid": "https://timtianchen.wordpress.com/?p=110",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "b45f8558e21cf951d43af3c42b312dc5",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/110",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/110/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/110/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/110/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

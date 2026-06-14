@@ -1,0 +1,169 @@
+{
+"ID": 57,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2017-07-16T14:12:00+01:00",
+"modified": "2022-01-19T14:14:41+01:00",
+"title": "Theft by finding",
+"URL": "https://timtianchen.wordpress.com/2017/07/16/theft-by-finding/",
+"short_URL": "https://wp.me/p7HHqt-V",
+"content": "\n<p class=\"wp-block-paragraph\">I have started listening to David Sedaris&#8217;s diary &#8220;Theft by Finding&#8221; for a second time in a row. That&#8217;s the problem with enjoying an audiobook, life has too many distractions. A book is meant to be enjoyed as an activity that requires 100% of my attention, yet with an audiobook, the temptation of multi-tasking proves too alluring.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The book basically lists selected diary entries from 1974 (?) until 2003. After finishing it the first time, I went on the NYT and read its review of the book and was surprised that the review was positive. It is hard to judge a diary without judging the person writing it. A diary is meant to be intensely personal and glorifying. Sedaris even said in the preface that the temptation to glorify fades away as one digs a bit deeper. In a sense, the book would suck if it were a biography, but is excellent as a diary. It doesn&#8217;t try to put emphasis on certain aspects of one&#8217;s life, instead it literally lists the events in a chronological fashion. One important aspect is that it is written without foresight into the future, which a biographer would have access to.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The only other diary I listened to (or read) is by Ann Frank. Strangely enough, maybe because of its historical nature, I read it more impersonally. As a teenager, she definitely tried to justify and glorify her actions. Her mental debates were written more for the benefit of the reader. Maybe it is the translation, I don&#8217;t know.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Sedaris, for all his non-conformity to his time, is a typical american dream success story. He is gay and grew up in North Carolina to a poor community. He is regularly mistaken for a woman, I admit the first time I listened to his book (I think it was Let&#8217;s Explore Diabetes with Owls) I had no doubt that he was a woman. Some of his siblings didn’t grow out of their circumstances and one has committed suicide.</p>\n\n\n\n<p class=\"wp-block-paragraph\">He was 29 and working as a Christmas elf in Chicago. At that time, it wouldn&#8217;t be a stretch to imagine that he would remain an elf for the rest of his life. It would however be ridiculous to think his books would end up on the number one spot of NYT best sellers.</p>\n",
+"excerpt": "<p>I have started listening to David Sedaris&#8217;s diary &#8220;Theft by Finding&#8221; for a second time in a row. That&#8217;s the problem with enjoying an audiobook, life has too many distractions. A book is meant to be enjoyed as an activity that requires 100% of my attention, yet with an audiobook, the temptation of multi-tasking proves [&hellip;]</p>\n",
+"slug": "theft-by-finding",
+"guid": "https://timtianchen.wordpress.com/?p=57",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "49ff41032872945feb6932c105601924",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {
+"Books": {
+"ID": 178,
+"name": "Books",
+"slug": "books",
+"description": "",
+"post_count": 1,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:books",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:books/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+},
+"Observations": {
+"ID": 90,
+"name": "Observations",
+"slug": "observations",
+"description": "",
+"post_count": 4,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_format": {},
+"mentions": {}
+},
+"tags": {
+"Books": {
+"ID": 178,
+"name": "Books",
+"slug": "books",
+"description": "",
+"post_count": 1,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:books",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:books/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+},
+"Observations": {
+"ID": 90,
+"name": "Observations",
+"slug": "observations",
+"description": "",
+"post_count": 4,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:observations/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/57",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/57/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/57/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/57/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

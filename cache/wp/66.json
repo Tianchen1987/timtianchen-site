@@ -1,0 +1,141 @@
+{
+"ID": 66,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2017-04-18T14:17:24+01:00",
+"modified": "2022-01-19T14:19:42+01:00",
+"title": "Human Resources",
+"URL": "https://timtianchen.wordpress.com/2017/04/18/human-resources/",
+"short_URL": "https://wp.me/p7HHqt-14",
+"content": "\n<p class=\"wp-block-paragraph\">Those little leeches who sit together in one corner of the office, yet no one knows what they do all day.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I hate the HR, the department, the people who work in it, and the very concept that humans are resources. I have had many encounters with the HR, and most of them are overwhelmingly and unnecessarily difficult. I am not that old, but in a modern day workforce I would recommend the elimination of the HR as a profession and as a department. There are several reasons for this.</p>\n\n\n\n<p class=\"wp-block-paragraph\">One,HR has no clue how to hire people who would benefit any particular company, their are trained to hire people who would work best in HR. Assuming HR peeps are highly trained professionals, then they would only be suitable to interview and hire people within a very specific discipline. The very fact that HR can be completely out sourced means that their job can be replaced by a simple questionnaire with a voice box. I am sure anyone who’s been interviewed by HR has had to answer questions such as “What are your weaknesses?” or “tell me the experience where you worked in a team”. Unless your answer to the first is “I am afraid of burgers” when applying to Mcdonalds, the answer itself is completely meaningless. What HR wants to hear are elaborate answers on your past life that they can use to gossip later on. So, by all means, remember a life story and tell it in vivid details, the HR would suck that shit right up.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Being honest is the worst thing you can do. For example, teamwork to me is 90% individual work and 10% compilation and discussion. Teamwork to an HR is 100% sitting around a table having meetings after meetings. I did answer this honestly once, I did not get the job. The HR lady looked at me as if I were crazy.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Two, to hire people who are most suitable in HR is the goal of HR.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I think most HR managers know that their job is at risk. So what do they do? First, they cozy up to the bosses, and come up with meaningless metrics to say how positive their influence on the company is. They even dress up on a daily basis even though none of them ever meet clients. Second, they try to expand the HR department as much as possible. That way it is harder to get rid of later on. Lastly, they try to draw a process out for a long as they can so they always have the fullest calendar of anybody in the office, including the CEO. A simple travel expense become a weeklong ordeal where you need to go to them multiple times. Pages after pages of wasted paper later, you feel like you want to stab something.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Three, replacement of HR department by one person working at a leisure pace.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Interviews – the behavioral questions are pointless, what remains are technical questions which are asked by the actual supervisors of the position anyway.<br>Payroll – the finances can be out sources to payroll specialists<br>Contracts – Computer / excel<br>Gossip central – receptionists and secretaries. at least they don’t rat people out.</p>\n",
+"excerpt": "<p>Those little leeches who sit together in one corner of the office, yet no one knows what they do all day. I hate the HR, the department, the people who work in it, and the very concept that humans are resources. I have had many encounters with the HR, and most of them are overwhelmingly [&hellip;]</p>\n",
+"slug": "human-resources",
+"guid": "https://timtianchen.wordpress.com/?p=66",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "3c2b2913b55988f6d28399bdab7ab45e",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 6,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_format": {},
+"mentions": {}
+},
+"tags": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 6,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/tags/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/66",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/66/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/66/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/66/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

@@ -1,0 +1,111 @@
+{
+"ID": 474,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2025-08-08T16:57:13+01:00",
+"modified": "2025-08-08T16:57:13+01:00",
+"title": "Arcade conferences",
+"URL": "https://timtianchen.wordpress.com/2025/08/08/arcade-conferences/",
+"short_URL": "https://wp.me/p7HHqt-7E",
+"content": "\n<p class=\"wp-block-paragraph\">At some point, after I have gone on so many trips to so many different cities, airports become places of familiarity. The stress gets taken away and replaced by a sense of knowing. I arrive at the border control, I go through the security, I step with my socks on that disgusting mat, and I walk to the gate. I board the plane and sit. It&#8217;s the same routine every time. I have long stopped trying to press different buttons on the screen, on the armrest, or flip through the in flight magazines.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The sense of familiarity doesn&#8217;t make flying enjoyable by any means, it makes it less exciting. In the same way that going to the same bus stop every morning doesn&#8217;t really excite anybody. It&#8217;s just a thing to do to get you from point A to point B. The bus sqeeches to a stop. You get on and sit down. That&#8217;s about it. I board the plane, I get into my seat, and so it goes.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Walking into a Starbucks. Whether in Rome, Italy or in Annapolis, MD, USA, I&#8217;d get the same flat white, and it&#8217;d probably taste exactly the same. It&#8217;s the buildup of tolerance as if traveling is a drug.</p>\n\n\n\n<p class=\"wp-block-paragraph\">It&#8217;s the same places too. Of the conferences I planned to go to this year. Two of them are in Georgia Tech and two are in Anaheim, CA. To be honest, I don&#8217;t really know why. They are just… there.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I walk into the hotel. The Hilton is literally built the same everywhere.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Conferences are the same. When I was a PhD student. I remember in the first 3 months, I wrote three conference papers. These papers embarrass me greatly when I look at them now, they really were not the best. But I wanted to go on conferences so much that I wrote all of them, and they all got accepted. and so I went. Those times, I really didn&#8217;t get much out of conferences. I would worry about presenting and not spend enough time actually appreciating what conferences have to offer.</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a Covid post-doc, I literally had a conference cancel on me the day I was suppose to fly there. That was APS March meeting.</p>\n\n\n\n<p class=\"wp-block-paragraph\">It wasn&#8217;t until I became a professor that I started understanding what conferences are meant for. i mean, as a post-doc, i thought the remote conferences were perfectly good. I got to enjoy the talks at my own leisure, I could listen to two talks that were happening at the same time. Now I go to 5 to 7 conferences a year on average. I was diligent at first, finding the talks i would be interested in and attending them.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Fast forward 4 years, and here i am now. If i go to five talks at a conference, in addition to my own session, i&#8217;d consider that a win. Maybe i need to find new conferences to go to. Now i am using conferences as a venue to meet with my collaborators and my commiserator. We discuss ideas and ideas become proposals, and proposals get funded so there will be more research to be presented at future conferences.</p>\n\n\n\n<p class=\"wp-block-paragraph\">As I get to know people in the community, I start participating in more mini-symposium organization. I suppose these things all happen in stages, and it&#8217;s inevitable to a degree.</p>\n",
+"excerpt": "<p>At some point, after I have gone on so many trips to so many different cities, airports become places of familiarity. The stress gets taken away and replaced by a sense of knowing. I arrive at the border control, I go through the security, I step with my socks on that disgusting mat, and I [&hellip;]</p>\n",
+"slug": "arcade-conferences",
+"guid": "https://timtianchen.wordpress.com/?p=474",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "b8cfb2be37c8d1a05f758431449d3da9",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/474",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/474/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/474/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/474/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

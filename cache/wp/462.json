@@ -1,0 +1,111 @@
+{
+"ID": 462,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2024-11-10T00:36:01+01:00",
+"modified": "2024-11-10T00:36:01+01:00",
+"title": "Dive bars",
+"URL": "https://timtianchen.wordpress.com/2024/11/10/dive-bars/",
+"short_URL": "https://wp.me/p7HHqt-7s",
+"content": "\n<p class=\"wp-block-paragraph\">I write a lot at dive bars, but I don’t write a lot about dive bars. I’m going to write about dive bars. I’m not in one right now. But as I write this, I feel like I’m sitting in one. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Dive bars are airport gates. They are not the club lounges, or the overpriced restaurants trying to pass off fast food as airport gourmet. Dive bars are where you sit because you are not sitting anywhere else. Not that you can’t or can’t afford to, but just aren’t. Dive bars are sticky, musky, and dim. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Dive bars are cozy. The same way a car seat is. Sometimes, it is too much, to sit in a cafe. It’s too much to sit in my office. Sometimes I need a cocoon. Maybe I’ve always wanted this. When I was three, I remember having an “office” under the stairs. I had my little chair and a desk the size of a large book. I felt content and safe.</p>\n\n\n\n<p class=\"wp-block-paragraph\">It makes me shiver thinking about this.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Alcohol warms me, and it envelopes me. </p>\n\n\n\n<p class=\"wp-block-paragraph\">When it gets too much, I want that cocoon of anonymity. When I sit in a dive bar, no one will see me. They won’t notice me, and next morning they won’t remember me. I won’t remember me either. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Anything I write or jot down won’t have any consequences. They don’t matter. Napkins with blue ink, in the bin. I cannot fuck up.</p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" width=\"768\" height=\"1024\" data-attachment-id=\"461\" data-permalink=\"https://timtianchen.wordpress.com/img_1762/\" data-orig-file=\"https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg\" data-orig-size=\"1500,2000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;1.78&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 16 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1731173645&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.7649998656528&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"img_1762\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg?w=768\" src=\"https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg?w=768\" alt=\"\" class=\"wp-image-461\" srcset=\"https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg?w=768 768w, https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg?w=113 113w, https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg?w=225 225w, https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg?w=1440 1440w, https://timtianchen.wordpress.com/wp-content/uploads/2024/11/img_1762.jpg 1500w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" /></figure>\n",
+"excerpt": "<p>I write a lot at dive bars, but I don’t write a lot about dive bars. I’m going to write about dive bars. I’m not in one right now. But as I write this, I feel like I’m sitting in one. Dive bars are airport gates. They are not the club lounges, or the overpriced [&hellip;]</p>\n",
+"slug": "dive-bars",
+"guid": "https://timtianchen.wordpress.com/?p=462",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 1,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "8969a71fbc7aa4504534dc0f90756ff7",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 4,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 4,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/462",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/462/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/462/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/462/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

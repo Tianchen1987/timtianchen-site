@@ -1,0 +1,245 @@
+{
+"ID": 203,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2022-03-12T15:57:38+01:00",
+"modified": "2022-03-12T17:24:02+01:00",
+"title": "Writing",
+"URL": "https://timtianchen.wordpress.com/2022/03/12/writing/",
+"short_URL": "https://wp.me/s7HHqt-writing",
+"content": "\n<p class=\"wp-block-paragraph\"><a href=\"https://www.dropbox.com/s/c65e7sjmbkenfv6/writing.m4a?dl=0\" target=\"_blank\" rel=\"noreferrer noopener\"><em>Audio transcript</em></a></p>\n\n\n\n<p class=\"wp-block-paragraph\">I was never good at writing, and I am still barely passable after many decades of trying to get words on papers. My performance in language classes, be it Chinese, English, French, Dutch or German, left teachers cringing and me annoyed. My grades were laughable, and often landed me in remedial classes. While my other grades improved in the later years of high school, English always remained somewhat of an Achilles&#8217; heel for me.</p>\n\n\n\n<p class=\"wp-block-paragraph\">By that point, having lived in Canada for almost 4 years, scoring high on the TOFEL test wasn&#8217;t much of a problem, as it was more or less a pattern matching exercise. I was pretty good at memorization, I was younger&#8230; Though, writing in particular, has always been terrifying. When we were asked to compose essays in China, we basically copied and pasted from random textbooks we could find and that the teachers didn&#8217;t know about. As soon as we hit the required word limit, we called it a day. This tradition more or less got carried over into my English classes in Canada. I never wrote voluntarily. I never had much that I wanted to say on paper, nor did I have the ability to express those thoughts. It felt like drawing for me, what I imagine in my head is never what I manage to draw on paper.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Many students (me included) went into engineering as a subject of study precisely because we were terrified of English or anything that required essay writing as a means of evaluation. We could do some maths and science, and we masked our insecurity with boastful claims that we were gonna get rich, especially when compared to the liberal arts folks. A few friends I made while at the University of Toronto did enjoy writing, and would spend what little time we had after school writing. Some would even go on publish what they wrote (on some inchoate version of WordPress). I read those, and I admired those people. By extension I secretly admired the English majors who actually seemed to enjoy what they were being taught. Their general hygiene and high social functionality also proved attractive&#8230; (Engineering as a discipline for the most part did not make me go starry eyed at that point.)</p>\n\n\n\n<p class=\"wp-block-paragraph\">Years past, and I was pretty much still a half literate person. It was not until studying for my GRE that I finally started appreciating reading and writing. Two of the instructions on how to study for the GRE were literally 1) memorizing the dictionary, and 2) reading the New York Times. I tried both, but it was the reading of the paper that stuck. The Times was, at the time, not behind a paywall. Like Wikipedia, I would go on reading one article after another in a never ending rabbit hole. These articles were long, and I quickly came to realize I did not know many of the words they were using. That was a shock, to think after speaking English for more than a decade, I should have a decent vocabulary! GRE came and gone without making too much of a fuss, though I was pretty proud of getting a 162 on the verbal! (Given this bias, I do look at the verbal score more than the quantitative when evaluating potential PhD students, hint hint.)</p>\n\n\n\n<p class=\"wp-block-paragraph\">I read, and kept reading, having maintained an active NYTimes subscription ever since overcoming the paywall became too tedious, and I thought these guys more than deserve my money&#8230; Over time, I began appreciating the writing styles of the different columnists on the Times&#8217; staff. The underlying passion of Blow&#8217;s pieces is unmistakable. Douthat is so fancy in his writing, I still don&#8217;t understand him some times. Krugman I don&#8217;t really understand as well, especially his more wonky articles, but for an entirely different reason. Swisher I recently started listening to and enjoying. And I lament the departure of Kristof (and upset at their ridiculous treatment of his political aspirations in Oregon). </p>\n\n\n\n<p class=\"wp-block-paragraph\">I don&#8217;t know if an appreciation of writing makes me a better writer. By my profession, I write academic papers. There is a certain style of writing that goes into such articles that I haven&#8217;t entirely deciphered. Yet I do subconsciously observe that some papers are well written and others not. I also notice that for some papers, some parts may be very coherent, and later parts felt tacked on (possibly because they had to address some reviewers&#8217; comments). I enjoy writing, and re-writing. I derive pleasure from making sure that the words and the sentences do means what I want them to mean, and that there is a structure to it all. I read what I write out loud so I know it flows in a laminar sort of way. I smooth out kinks. I polish.</p>\n",
+"excerpt": "<p>Audio transcript I was never good at writing, and I am still barely passable after many decades of trying to get words on papers. My performance in language classes, be it Chinese, English, French, Dutch or German, left teachers cringing and me annoyed. My grades were laughable, and often landed me in remedial classes. While [&hellip;]</p>\n",
+"slug": "writing",
+"guid": "https://timtianchen.wordpress.com/?p=203",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 1,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "af1b31592ad617af7fc8cce4af2c11ee",
+"featured_image": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png",
+"post_thumbnail": {
+"ID": 236,
+"URL": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png",
+"guid": "https://timtianchen.files.wordpress.com/2022/03/screen-shot-2022-03-12-at-07.55.44.png",
+"mime_type": "image/png",
+"width": 2243,
+"height": 450
+},
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Academia": {
+"ID": 6942,
+"name": "Academia",
+"slug": "academia",
+"description": "",
+"post_count": 4,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:academia",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:academia/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+},
+"Audio": {
+"ID": 413,
+"name": "Audio",
+"slug": "audio",
+"description": "",
+"post_count": 2,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:audio",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:audio/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+},
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 4,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Academia": {
+"ID": 6942,
+"name": "Academia",
+"slug": "academia",
+"description": "",
+"post_count": 4,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:academia",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:academia/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+},
+"Audio": {
+"ID": 413,
+"name": "Audio",
+"slug": "audio",
+"description": "",
+"post_count": 2,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:audio",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:audio/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+},
+"Thoughts": {
+"ID": 563,
+"name": "Thoughts",
+"slug": "thoughts",
+"description": "",
+"post_count": 4,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:thoughts/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {
+"236": {
+"ID": 236,
+"URL": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png",
+"guid": "https://timtianchen.files.wordpress.com/2022/03/screen-shot-2022-03-12-at-07.55.44.png",
+"date": "2022-03-12T14:56:18+01:00",
+"post_ID": 203,
+"author_ID": 16778392,
+"file": "screen-shot-2022-03-12-at-07.55.44.png",
+"mime_type": "image/png",
+"extension": "png",
+"title": "Screen Shot 2022-03-12 at 07.55.44",
+"caption": "",
+"description": "",
+"alt": "",
+"thumbnails": {
+"thumbnail": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=150",
+"medium": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=300",
+"large": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=1024",
+"newspack-article-block-landscape-large": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=1200&h=450&crop=1",
+"newspack-article-block-portrait-large": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=900&h=450&crop=1",
+"newspack-article-block-square-large": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=1200&h=450&crop=1",
+"newspack-article-block-landscape-medium": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=800&h=450&crop=1",
+"newspack-article-block-portrait-medium": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=600&h=450&crop=1",
+"newspack-article-block-square-medium": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=800&h=450&crop=1",
+"newspack-article-block-landscape-intermediate": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=600&h=450&crop=1",
+"newspack-article-block-portrait-intermediate": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=450&h=450&crop=1",
+"newspack-article-block-square-intermediate": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=600&h=450&crop=1",
+"newspack-article-block-landscape-small": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=400&h=300&crop=1",
+"newspack-article-block-portrait-small": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=300&h=400&crop=1",
+"newspack-article-block-square-small": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=400&h=400&crop=1",
+"newspack-article-block-landscape-tiny": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=200&h=150&crop=1",
+"newspack-article-block-portrait-tiny": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=150&h=200&crop=1",
+"newspack-article-block-square-tiny": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=200&h=200&crop=1",
+"newspack-article-block-uncropped": "https://timtianchen.wordpress.com/wp-content/uploads/2022/03/screen-shot-2022-03-12-at-07.55.44.png?w=1200"
+},
+"height": 450,
+"width": 2243,
+"exif": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+},
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/media/236",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/media/236/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"parent": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/203"
+}
+}
+}
+},
+"attachment_count": 1,
+"metadata": [
+{
+"id": "671",
+"key": "_thumbnail_id",
+"value": "236"
+}
+],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/203",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/203/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/203/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/203/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

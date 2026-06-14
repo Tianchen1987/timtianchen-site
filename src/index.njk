@@ -1,0 +1,101 @@
+---
+layout: layouts/base.njk
+wide: true
+---
+<button class="filter-toggle" type="button" aria-label="Categories" aria-expanded="false" aria-controls="filter-bar">
+  <span class="hamburger" aria-hidden="true"><span></span><span></span><span></span></span>
+</button>
+
+<nav class="filter-bar" id="filter-bar" aria-label="Filter posts by category">
+  <a class="filter is-active" href="#" data-cat="">All</a>
+  {% for cat in collections.categoryList %}
+    <a class="filter" href="#{{ cat.slug }}" data-cat="{{ cat.slug }}">{{ cat.name }}</a>
+  {% endfor %}
+</nav>
+
+<div class="card-grid" id="card-grid">
+  {% for post in collections.posts %}
+    <a class="card" href="{{ post.url }}" data-cats="{% for c in post.data.categories %}{{ c | categorySlug }}{% if not loop.last %} {% endif %}{% endfor %}">
+      {% if post.data.hero %}
+        <img class="card-hero" src="{{ post.data.hero }}" alt="" loading="lazy" />
+      {% endif %}
+      <div class="card-body">
+        <time class="card-date" datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+        <h2 class="card-title">{{ post.data.title }}</h2>
+        {% if post.data.summary %}<p class="card-summary">{{ post.data.summary }}</p>{% endif %}
+        {% if post.data.categories %}<span class="card-tags">{% for c in post.data.categories %}<span class="tag">{{ c }}</span>{% endfor %}</span>{% endif %}
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+<script>
+  (function () {
+    var grid = document.getElementById("card-grid");
+    if (!grid) return;
+    var cards = Array.prototype.slice.call(grid.children); // original (row) order
+    var filters = Array.prototype.slice.call(document.querySelectorAll(".filter"));
+    var bar = document.getElementById("filter-bar");
+    var toggle = document.querySelector(".filter-toggle");
+    var narrow = window.matchMedia("(max-width: 760px)");
+    var current = "";
+
+    // Distribute the visible cards across N flex columns in round-robin order
+    // so reading runs left-to-right across the top row, while each column packs
+    // tightly (a tiled / masonry look rather than rigid aligned rows).
+    function cardHasCat(c, cat) {
+      return (" " + (c.dataset.cats || "") + " ").indexOf(" " + cat + " ") !== -1;
+    }
+
+    function layout() {
+      var cols = narrow.matches ? 1 : 3;
+      var visible = cards.filter(function (c) {
+        return !current || cardHasCat(c, current);
+      });
+      grid.classList.add("is-masonry");
+      grid.textContent = "";
+      var columns = [];
+      for (var i = 0; i < cols; i++) {
+        var col = document.createElement("div");
+        col.className = "card-col";
+        grid.appendChild(col);
+        columns.push(col);
+      }
+      visible.forEach(function (c, i) {
+        columns[i % cols].appendChild(c);
+      });
+    }
+
+    function setOpen(open) {
+      if (bar) bar.classList.toggle("is-open", open);
+      if (toggle) toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+
+    function setCat(cat) {
+      current = cat;
+      filters.forEach(function (f) {
+        f.classList.toggle("is-active", f.dataset.cat === cat);
+      });
+      setOpen(false); // collapse the menu after a choice (narrow screens)
+      layout();
+    }
+
+    if (toggle) {
+      toggle.addEventListener("click", function () {
+        setOpen(!(bar && bar.classList.contains("is-open")));
+      });
+    }
+    filters.forEach(function (f) {
+      f.addEventListener("click", function (e) {
+        e.preventDefault();
+        history.replaceState(null, "", f.dataset.cat ? "#" + f.dataset.cat : location.pathname);
+        setCat(f.dataset.cat);
+      });
+    });
+    window.addEventListener("hashchange", function () {
+      setCat((location.hash || "").replace(/^#/, ""));
+    });
+    narrow.addEventListener("change", layout);
+    setCat((location.hash || "").replace(/^#/, ""));
+  })();
+</script>

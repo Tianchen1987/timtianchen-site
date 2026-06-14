@@ -1,0 +1,111 @@
+{
+"ID": 151,
+"site_ID": 113849389,
+"author": {
+"ID": 16778392,
+"login": "timtianchen",
+"email": false,
+"name": "timtianchen",
+"first_name": "T",
+"last_name": "C",
+"nice_name": "timtianchen",
+"URL": "http://timtianchen.com",
+"avatar_URL": "https://2.gravatar.com/avatar/ee2d32f3afaa04f0e6f1597c0d1a92355de4b728dbc9ffd3715f4072e692439f?s=96&d=identicon&r=G",
+"profile_URL": "https://gravatar.com/timtianchen",
+"site_ID": 113849389
+},
+"date": "2024-12-15T00:16:48+01:00",
+"modified": "2024-12-15T00:16:48+01:00",
+"title": "Reminiscence",
+"URL": "https://timtianchen.wordpress.com/2024/12/15/reminiscence/",
+"short_URL": "https://wp.me/p7HHqt-2r",
+"content": "\n<p class=\"wp-block-paragraph\">Being a post-doc was the most fun period in my professional life so far. That statement seems to be true only in retrospect, and it is only true because I found the next job that an academic is “supposed to” find. For the post-docs who are on the job market, as I was last year, life was misery itself, and that may be due to the transitory nature of a post-doc position. It is a stepping stone that one goes through to become a faculty member at some institution. There must be some well-thought out theory on life events that fall into that category.</p>\n\n\n\n<p class=\"wp-block-paragraph\">There has been an increasing revolt against the notion that going to industry is an admission of failure. we used to talk about going to industry as a path not so much chosen, but as a path of last resort. This ties into the larger narrative that universities are designed to educate future academics. Back then, one did not go to university to obtain practical knowledge that could be useful. University-educated scholars whom by definition aren’t suppose to be good for anything practical. Science was done by “gentlemen” as a leisure activity.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But now, of course universities have become a pathway towards upper mobility, towards finding a career that pays better. This has been true for a bachelor&#8217;s degree, and is becoming increasingly true for a masters too. That is where it stopped, should stop. I find it improbable that a person enters a doctoral school (to earn a PhD for example) without at least entertaining the notion that they may someday become an academic. Conversely, very few career paths actually need the candidate to have a PhD in a specific discipline, in a specific topic. Spending 4 years at an R and D department surely trains a better researcher (generating more revenue for a company) in that particular domain than a PhD program.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Case to point, almost no one needs to have a PhD in engineering to be an engineer. Consequently, there must be an ulterior motive for a person to do a doctorate in engineering. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Second, the increased admission of PhDs. There is never enough faculty positions for the amount of PhDs that come out every day. For that would require each faculty member to train exactly one PhD throughout their lifetime (adjusting for population growth). Yet we, in engineering, are advised to hire one new phd per year. given a career of 30 years, i will have trained 30 phds. yet i will only be replaced by one person.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I am come to think long and hard about my chosen career. </p>\n\n\n\n<p class=\"wp-block-paragraph\">I also thought a great deal about the notion that I chose my career. To what degree does a person truly choose what they do?</p>\n\n\n\n<p class=\"wp-block-paragraph\">Just because the world has gotten more complex and jobs more specialized, doesn&#8217;t mean that the knowledge is somehow more suited in a university setting. A university&#8217;s job is to teach students how to think, how to solve problems, and how to behave as a person. These are abstract concepts that theoretically should be applicable to any jobs the student may have in the future.</p>\n",
+"excerpt": "<p>Being a post-doc was the most fun period in my professional life so far. That statement seems to be true only in retrospect, and it is only true because I found the next job that an academic is “supposed to” find. For the post-docs who are on the job market, as I was last year, [&hellip;]</p>\n",
+"slug": "reminiscence",
+"guid": "https://timtianchen.wordpress.com/?p=151",
+"status": "publish",
+"sticky": false,
+"password": "",
+"has_password": false,
+"parent": false,
+"type": "post",
+"discussion": {
+"comments_open": true,
+"comment_status": "open",
+"pings_open": true,
+"ping_status": "open",
+"comment_count": 0
+},
+"likes_enabled": false,
+"sharing_enabled": true,
+"like_count": 0,
+"i_like": false,
+"is_reblogged": false,
+"is_following": false,
+"global_ID": "79747ce0443f9e09cc6537e334f0a94c",
+"featured_image": "",
+"post_thumbnail": null,
+"format": "standard",
+"geo": false,
+"menu_order": 0,
+"page_template": "",
+"publicize_URLs": [],
+"terms": {
+"category": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"post_tag": {},
+"post_format": {},
+"mentions": {}
+},
+"tags": {},
+"categories": {
+"Uncategorized": {
+"ID": 1,
+"name": "Uncategorized",
+"slug": "uncategorized",
+"description": "",
+"post_count": 46,
+"parent": 0,
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/categories/slug:uncategorized/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389"
+}
+}
+}
+},
+"attachments": {},
+"attachment_count": 0,
+"metadata": [],
+"meta": {
+"links": {
+"self": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/151",
+"help": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/151/help",
+"site": "https://public-api.wordpress.com/rest/v1.1/sites/113849389",
+"replies": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/151/replies/",
+"likes": "https://public-api.wordpress.com/rest/v1.1/sites/113849389/posts/151/likes/"
+}
+},
+"capabilities": {
+"publish_post": false,
+"delete_post": false,
+"edit_post": false
+},
+"other_URLs": {}
+}

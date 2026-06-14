@@ -2,12 +2,11 @@
   "name": "staying-afloat",
   "version": "1.0.0",
   "private": true,
-  "description": "Staying Afloat — a personal blog (migrated from WordPress).",
+  "description": "Staying Afloat — a personal blog.",
   "scripts": {
     "build": "eleventy",
     "serve": "eleventy --serve",
-    "clean": "rm -rf _site",
-    "import": "python3 tools/import_wordpress.py"
+    "clean": "rm -rf _site"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",

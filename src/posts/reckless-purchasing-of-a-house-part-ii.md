@@ -7,7 +7,7 @@ summary: "The aftermath of a too-fast house purchase — repairs, regrets, and a
 hero: "/images/posts/reckless-purchasing-of-a-house-part-ii/hero.png"
 ---
 
-This is part II of the “how not to buy a house in a week” trilogy. Read [part I](https://timtianchen.wordpress.com/2022/05/30/reckless-purchasing-of-a-house-part-i/) first.
+This is part II of the “how not to buy a house in a week” trilogy. Read [part I](/posts/reckless-purchasing-of-a-house-part-i/) first.
 
 #### Day 8
 

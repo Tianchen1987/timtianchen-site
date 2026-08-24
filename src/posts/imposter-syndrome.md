@@ -24,7 +24,7 @@ All this time though, I feel like I don’t have a firm grasp on the knowledge t
 
 *What do I do to manage it? I constantly seek validation*
 
-These are happy pills in a metaphorical sense. Just like pills, extrinsic validations are by definitional ephemeral, they wear off. Every award I got gave me a high, it’s that cherry atop the cake, it’s that blue ribbon, a job offer, an award, a paper published. After an ever decreasing interval of satisfaction, I am out seeking another, stronger dose. Maintaining a status quo, no matter how lofty that status quo is, is never good enough. Looking at the “ego wall” (now virtual), I am just reminded the hollowness of the endeavor.
+These are happy pills in a metaphorical sense. Just like pills, extrinsic validations are by definition ephemeral, they wear off. Every award I got gave me a high, it’s that cherry atop the cake, it’s that blue ribbon, a job offer, an award, a paper published. After an ever decreasing interval of satisfaction, I am out seeking another, stronger dose. Maintaining a status quo, no matter how lofty that status quo is, is never good enough. Looking at the “ego wall” (now virtual), I am just reminded the hollowness of the endeavor.
 
 This dichotomy is something that I haven’t really made peace with in my head. On the one hand, I am (obviously) disappointed when my applications are declined. When I do get an offer, I wonder if they were duped by my clever ruse.
 
@@ -34,4 +34,4 @@ This is something I question constantly in academia. By definition, fundamental 
 
 Teaching is different. By trying to do it well, I do see an impact in the few students who understood the subject well enough to appreciate it.
 
-In summary, I think I have gotten to a point where I’ve accept that I’ve duped everyone, and in all likelihood, I will keep duping everyone forever. I am not too afraid that someone will unmask me in some dramatic fashion anymore.
+In summary, I think I have gotten to a point where I’ve accepted that I’ve duped everyone, and in all likelihood, I will keep duping everyone forever. I am not too afraid that someone will unmask me in some dramatic fashion anymore.

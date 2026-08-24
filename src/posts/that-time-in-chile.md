@@ -17,7 +17,7 @@ The first memory was of us walking along the river in the evening with our suitc
 
 Us touring the apartment we ended up renting for about 400 dollars a month. We living in that apartment, it had either a red and white checkerboard curtain or table cloth. There was an ikea lounge chair. A balcony upon which we witness a bank robbery. The bedroom door slid.
 
-The job hunt, where we walked from one English teaching institution to another, looking for positions to teach english. We walked and walked under an intense and unrelenting sun. We walked past the parliament building. Why do all South American countries build them like that?
+The job hunt, where we walked from one English teaching institution to another, looking for positions to teach English. We walked and walked under an intense and unrelenting sun. We walked past the parliament building. Why do all South American countries build them like that?
 
 Us studying for the GRE at an air conditioned public library. It must have been a publicly funded project, the small building was nicely designed, the interior had light colored wood with many desks and chairs.
 
@@ -29,7 +29,7 @@ Eating sopaipillas that we bought from a street vendor. I would pass by the same
 
 New year’s eve having grapes on a balcony with the landlord and other people. There were fireworks.
 
-Cashing our cheques and hiking the money in the freezer in a zip lock bag. Later, we were woken by a loud clash and went on to the balcony to see that bank branch getting robbed by a bunch of quite clumsy men in black hoods.
+Cashing our cheques and hiding the money in the freezer in a zip lock bag. Later, we were woken by a loud clash and went on to the balcony to see that bank branch getting robbed by a bunch of quite clumsy men in black hoods.
 
 There was an earthquake. We were woken up in the middle of the night. We left the flat and went out onto the street. We went back in and slept. Next day we went to work.
 

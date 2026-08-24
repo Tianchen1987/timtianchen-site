@@ -15,7 +15,7 @@ Clearly, for a project that I can sort of see how to do, at least on a theoretic
 
 I keep on reminding myself that a master student is pretty much a scholar already. Nothing suggests that I necessarily know better, therefore what I say may derail their train of thought.
 
-Two years and five students later, what I wrote above still rings true. From each student, I start get a sense of what they enjoy doing, and what they detest. On an intellectual level, both the student and I know that what they detest doing still need to be done, at least if they want to have an excellent grade. However, it is very difficult for me to push them out of their comfort zone to explore what is difficult. Some students loved physical prototyping and did not want to simulate anything. Others never wanted to get their hands dirty. Still others who did not want to try anything that may not work in the end.
+Two years and five students later, what I wrote above still rings true. From each student, I start to get a sense of what they enjoy doing, and what they detest. On an intellectual level, both the student and I know that what they detest doing still need to be done, at least if they want to have an excellent grade. However, it is very difficult for me to push them out of their comfort zone to explore what is difficult. Some students loved physical prototyping and did not want to simulate anything. Others never wanted to get their hands dirty. Still others who did not want to try anything that may not work in the end.
 
 Though it may sound like I am bitching here, I confess I have the same issues. My message to the students is,
 

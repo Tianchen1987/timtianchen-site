@@ -8,7 +8,7 @@ summary: "A gripe about how large organizations inevitably standardize on clunky
 
 ##### Microsoft
 
-Big systems are unwieldy, and they tend to use equally unwieldy things. A large cooperation would invariably employ Microsoft products. Most iconically Outlook, and now things like Sharepoint and other software. Lots of universities adopt Blackboard, and most of them don’t make use of 50% of its features. I suppose one of the benefit of these is that they come with support.
+Big systems are unwieldy, and they tend to use equally unwieldy things. A large corporation would invariably employ Microsoft products. Most iconically Outlook, and now things like Sharepoint and other software. Lots of universities adopt Blackboard, and most of them don’t make use of 50% of its features. I suppose one of the benefit of these is that they come with support.
 
 I bet Google uses Google app and gmail in place of Outlook. I think it would save a ton of money to convert to a Google system. I suppose there is still no replacement for microsoft Word, Excel and Powerpoint, but the linkage between those and Outlook is minimal at best.
 
@@ -31,7 +31,7 @@ Drag that suitcase to Delft.
 
 ##### Attitudes
 
-Rural Texas. What must it be like there? Canada by comparison is a rather homogeneous place. From the east to the west coast, the difference is subdue, the slight change in accent, variation in demographics (from a lot of immigrants to really a lot of immigrants), and in gastronomy (since it is Canada, the variation in food is related to the immigrants).
+Rural Texas. What must it be like there? Canada by comparison is a rather homogeneous place. From the east to the west coast, the difference is subdued, the slight change in accent, variation in demographics (from a lot of immigrants to really a lot of immigrants), and in gastronomy (since it is Canada, the variation in food is related to the immigrants).
 
 If I moved from Toronto to Vancouver, probably no one would notice. If I moved then to Nova Scotia, the folks there may be weirded out by my attitude towards lobsters (not edible), but otherwise I am normal, common place Canadian.
 
@@ -49,7 +49,7 @@ An older lady bystander started laughing hysterically (or just being an old lady
 
 Almost felt bad for the original lady, it really wasn’t her fault since she had never faced such a situation before. But then again, lessons to be learnt. We would, as a group, never make these assumptions because they will be wrong. Where as the probability of these occurrences are low enough in Europe that, as a group, no one gets bothered.
 
-Does that make us less racist, or just more smart about it? Is stereotype bad (besides being people look foolish)? A statement such as “Asian people are good at math” would be a stereotype, where as “Asians on average score the highest on standardized math tests” would be statistics. Yet there is no difference in implication between the two statements.
+Does that make us less racist, or just more smart about it? Is stereotype bad (besides making people look foolish)? A statement such as “Asian people are good at math” would be a stereotype, where as “Asians on average score the highest on standardized math tests” would be statistics. Yet there is no difference in implication between the two statements.
 
 When the stereotype works in my favor, others look at me with secret resentment (so I assume), and it would of course be completely racist to adjust scores base on race (positively or negatively).
 

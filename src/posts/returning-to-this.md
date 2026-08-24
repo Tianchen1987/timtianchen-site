@@ -17,4 +17,4 @@ In the intervening years, I got my PhD from ETH Zurich, I went and did a Post-do
 
 I haven’t changed, yet somehow, I must have. My mind and my body chronicle what transpired. It’s no lie to say that my hair is thinning and greying. (I wonder which one is going to win out at the end.) My hangovers are getting more severe, and pulling all-nighters have become impossible.
 
-Davide Sedaris has since published two more books, both of which I listened to religiously. Obama is no longer the president, Trump is no longer the president, and Biden is failing miserably. I always felt ambivalent about the United States as it is, though never as it aspires to be. Now I am not sure.
+David Sedaris has since published two more books, both of which I listened to religiously. Obama is no longer the president, Trump is no longer the president, and Biden is failing miserably. I always felt ambivalent about the United States as it is, though never as it aspires to be. Now I am not sure.

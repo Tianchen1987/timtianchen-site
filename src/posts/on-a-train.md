@@ -9,7 +9,7 @@ summary: "Musings written on a sleeper train from Zurich to Amsterdam, on whethe
 
 ## Sleeper trains
 
-Does it really work? Or is it just one of those things we get use to because we have to get use to them?
+Does it really work? Or is it just one of those things we get used to because we have to get used to them?
 
 I choose this moment to exercise my atrophied writing muscle for a lack of better things to do, on this train ride from Zurich to Amsterdam. I realize I should be reading research papers, writing proposals, or be otherwise productive, except that I cannot. I don’t know what it is but being on any long distance, long duration transport just drain the energy out of me. This includes trains, buses, airplanes, cars, cars where I am a passenger, cars where I am the driver, yes cars where I am the driver, boats, and so on. That would be perfectly okay if the state of no energy puts me to sleep, except it doesn’t. I am also the type of person who cannot sleep on long duration transports.
 
@@ -23,7 +23,7 @@ Then I remembered that the water in normal bathrooms never got that hot, and qui
 
 Business, for profit. It has garnered a horrible name for itself, but it is so far the only working model for a group to run on. No, governments are failing, uniformly, into a ditch. But the profit has to come from somewhere.
 
-So I purpose a model where the money is funneled from developed nations to developing ones, with 10% or so of profit. This profit would be used to grow the company, and pay its employees a decent wage. Let’s face it, you don’t work for a non-profit for the money, and Google (substitute for any other successful cooperation) gets all the best employees because there is both the monetary incentive and the passion for doing cool stuff.
+So I propose a model where the money is funneled from developed nations to developing ones, with 10% or so of profit. This profit would be used to grow the company, and pay its employees a decent wage. Let’s face it, you don’t work for a non-profit for the money, and Google (substitute for any other successful corporation) gets all the best employees because there is both the monetary incentive and the passion for doing cool stuff.
 
 I also don’t think putting a still developing nation in debt is a good idea, so where does the money come from. What do we (developed nation people) want to shell out money for?
 
@@ -39,7 +39,7 @@ Now, we frantically try to patch up these insecurities as an after thought. It�
 
 I suppose the best way is to for users to read and understand when the operating system announces that the network they are about to connect to is indeed not secure and proceed accordingly.
 
-I believe the problem lies in the lack of knowledge in how technologies work. I think a lot of the educated paranoids (hint: readers of WSJ) think wi-fi is like this ether that perseveres the air around us, and therefore could not ever be grabbed and read by a malicious person.
+I believe the problem lies in the lack of knowledge in how technologies work. I think a lot of the educated paranoids (hint: readers of WSJ) think wi-fi is like this ether that pervades the air around us, and therefore could not ever be grabbed and read by a malicious person.
 
 As for these involuntarily generated signals. Unless you are Mr. Obama, if someone pays to put surveillance on me, maybe it’s time to start questioning. I do believe the majority of this mass paranoia is unfounded. We are inherently not interested in what others have to say. It’s hard enough to pay attention to the person sitting across from me, how big of a creep would I be to focus on some utter stranger’s tale of boredom.
 
@@ -65,18 +65,18 @@ But now, if you draw a sphere with the origin being your router, and the extent 
 
 Now think about how this information is transmitted. There is an emitter in your router, and one in your computer (yes there is one, some old computers don’t and that’s why you need to buy a wireless card with a little antenna).
 
-It goes like this, you type in “ebay.com”, your computer emits it to everywhere within the emission sphere, because it doesn’t know where the router is, the signal is never direct. the router picks that up, and sends back the webpage of bank.com, your computer displays it, and you pick the thing you wanna buy and the exchange goes back and forth until you decide you want to buy this thing. Then you type in your payment info and shipping info. Done.
+It goes like this, you type in “ebay.com”, your computer emits it to everywhere within the emission sphere, because it doesn’t know where the router is, the signal is never direct. the router picks that up, and sends back the webpage of ebay.com, your computer displays it, and you pick the thing you wanna buy and the exchange goes back and forth until you decide you want to buy this thing. Then you type in your payment info and shipping info. Done.
 
 Your computer again broadcast all that information in the sphere of its emitter, which also includes the road, *bam*, the passing by crook knows how to buy a yacht with your credit card.
 
 Even worse, he can use your network to buy his yacht. in addition to your credit card. and ship it to you and pick it up without you knowing.
 
-Paypal, ebay won’t know the difference. Yes Paypal is secure, and for all intent and purposes not-hackable. but why would you hack Paypal when you can just get the data free of charge driving by.
+Paypal, ebay won’t know the difference. Yes Paypal is secure, and for all intents and purposes not-hackable. but why would you hack Paypal when you can just get the data free of charge driving by.
 
-The layer of protection you have is the password that when the cable companies tell you when the technician install the “internet”. Many people don’t have this password (i know friends who have never paid for internet all throughout their university by simply using others), and many others use the default password, which by the way, is the same for every router of the same brand. considering cable companies use about…2 different brands of router, the guesswork is minimal.  
-Then there is that small percentage who actually customize their password and such. But Wifi is so ubiquitous that no one needs to hack when there are free ones available. Apply this to a coffee shop, or the airport, or anywhere where the wifi radius is massive and unsecure.  
+The layer of protection you have is the password that when the cable companies tell you when the technician install the “internet”. Many people don’t have this password (I know friends who have never paid for internet all throughout their university by simply using others), and many others use the default password, which by the way, is the same for every router of the same brand. considering cable companies use about…2 different brands of router, the guesswork is minimal.  
+Then there is that small percentage who actually customize their password and such. But Wifi is so ubiquitous that no one needs to hack when there are free ones available. Apply this to a coffee shop, or the airport, or anywhere where the wifi radius is massive and insecure.  
 Of course there are ways to protect your connection and no one knows about them. except some IT gurus on the internet. If you like to protect yourself then read those.
 
 I don’t even advocate for those, and I have surely never employed MAC address identification or hiding my wireless connection from the list. and I have, admittedly stupidly bought stuff online over public network, yet I have never had credit card fraud or any type of identity theft.
 
-Why? Not for any technological reasons, but mostly because people who are pro at scamming isn’t interested in my petty cash. They have bigger fishes to fry. Those bigger fishes have better protection systems accordingly. Social evolution at its best, eh?
+Why? Not for any technological reasons, but mostly because people who are pro at scamming isn’t interested in my petty cash. They have bigger fish to fry. Those bigger fishes have better protection systems accordingly. Social evolution at its best, eh?

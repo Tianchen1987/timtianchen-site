@@ -2,3 +2,6 @@ node_modules/
 _site/
 .DS_Store
 *.log
+
+# Drafts (work in progress, not published)
+src/posts/draft/

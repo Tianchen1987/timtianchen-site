@@ -6,7 +6,7 @@ categories:
 summary: "Transcribing a disorienting nightmare about being unable to find a job."
 ---
 
-*[audio transcript](https://www.dropbox.com/s/0mjgn3w7mexbc5e/a_nightmare.m4a?dl=0) – I will begin transcribing what I write*
+*[audio transcript](/recordings/a_nightmare.m4a) – I will begin transcribing what I write*
 
 This post will be partly a transcription of a nightmare I had the other day. I awoke from this nightmare feeling disoriented and terrified. In it, I was placed in an alternate reality where I was unable to find a job for a long while it seemed. I am not a part of any dream interpretation societies, and so I must resort to a literal understanding of what I experienced in the dream.
 

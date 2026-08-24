@@ -16,7 +16,7 @@ Dive bars are cozy. The same way a car seat is. Sometimes, it is too much, to si
 
 It makes me shiver thinking about this.
 
-Alcohol warms me, and it envelopes me.
+Alcohol warms me, and it envelops me.
 
 When it gets too much, I want that cocoon of anonymity. When I sit in a dive bar, no one will see me. They won’t notice me, and next morning they won’t remember me. I won’t remember me either.
 

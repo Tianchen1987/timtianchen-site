@@ -8,6 +8,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
   // CNAME for the custom domain (created at deploy time; copied if present)
   eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
+  // Audio recordings (linked from transcript posts)
+  eleventyConfig.addPassthroughCopy({ "src/recordings": "recordings" });
 
   // --- Filters ---
   eleventyConfig.addFilter("readableDate", (d) =>

@@ -5,7 +5,7 @@ categories:
   - "Introspection"
 summary: "Standing on a bridge and waiting."
 hero: "/images/posts/waiting/hero.jpg"
-heroCaption: ""
+heroCaption: "Frothing waves in Japan."
 ---
 
 I will walk across a bridge and notice the water beneath. I am going to see the ripples and hear the waves stroking the embankment. Picking a spot over a metal grate, and I will rest my arms on the railing.

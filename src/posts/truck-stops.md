@@ -5,6 +5,8 @@ categories:
   - "Society"
   - "Introspection"
 summary: "A roadside meditation on the US as a developing country."
+hero: "/images/posts/truck-stops/hero.jpg"
+heroCaption: "A truck stop converted into an idea of a truck stop."
 ---
 
 I don't understand my fascination at truck stops. It's so nomadic, so simple, and decrepit for the most part, so unrefined and basic, rural by design, situated at the edge of societies. They are like those small towns you drive through on a road trip, stopping only if you need gas or a place to eat and use the bathroom. The real thing is never as exciting as what they are in my head.

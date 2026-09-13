@@ -63,6 +63,24 @@ module.exports = function (eleventyConfig) {
       }));
   });
 
+  // --- Transforms ---
+  // Links to other sites open in a new tab. Internal links are left alone.
+  eleventyConfig.addTransform("externalLinks", function (content) {
+    const out = this.page && this.page.outputPath;
+    if (!out || !out.endsWith(".html")) return content;
+    return content.replace(
+      /<a\s+([^>]*?)href="(https?:\/\/[^"]+)"([^>]*?)>/gi,
+      (match, pre, href, post) => {
+        if (/timtianchen\.com/i.test(href)) return match;   // own site
+        let attrs = (pre + 'href="' + href + '"' + post).trim();
+        if (/\btarget\s*=/i.test(attrs)) return match;      // already set by hand
+        attrs += ' target="_blank"';
+        if (!/\brel\s*=/i.test(attrs)) attrs += ' rel="noopener noreferrer"';
+        return "<a " + attrs + ">";
+      }
+    );
+  });
+
   return {
     dir: {
       input: "src",

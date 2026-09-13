@@ -5,6 +5,8 @@ categories:
   - "Travel"
   - "Introspection"
 summary: "Memories of sopaipillas."
+hero: "/images/posts/that-time-in-chile/hero.jpg"
+heroCaption: ""
 ---
 
 I am writing this after reading an article on the NYTimes about [Sopaipillas](https://www.nytimes.com/2024/09/26/dining/sopapillas.html). Memories are like that, aren’t they? Something random pulls at a thread, and you just keep on pulling.

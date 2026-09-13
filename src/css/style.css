@@ -1,5 +1,6 @@
 :root {
   --max-width: 42rem;
+  --media-width: 21rem;   /* half the text column: heroes and inline photos */
   --bg: #fbfbf9;
   --fg: #1c1b1a;
   --muted: #6b6862;
@@ -431,7 +432,7 @@ a {
 }
 
 .post-hero img {
-  max-width: 22rem;
+  max-width: var(--media-width);
   max-height: 26rem;
   width: auto;
   height: auto;
@@ -455,7 +456,8 @@ a {
 }
 
 .post-body img {
-  max-width: 100%;
+  max-width: var(--media-width);
+  width: auto;
   height: auto;
   display: block;
   margin: 1.5rem auto;
@@ -463,7 +465,14 @@ a {
 }
 
 .post-body figure {
-  margin: 1.75rem 0;
+  max-width: var(--media-width);
+  margin: 1.75rem auto;
+}
+
+/* Full width on small screens, where half a column is unreadably small. */
+@media (max-width: 760px) {
+  .post-body img,
+  .post-body figure { max-width: 100%; }
 }
 
 .post-body figcaption {

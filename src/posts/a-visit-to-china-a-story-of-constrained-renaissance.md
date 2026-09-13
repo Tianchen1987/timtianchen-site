@@ -5,6 +5,8 @@ categories:
   - "Travel"
   - "Society"
 summary: "Returning to Shanghai after two decades."
+hero: "/images/posts/a-visit-to-china-a-story-of-constrained-renaissance/hero.jpg"
+heroCaption: ""
 ---
 
 It was supposed to be an experience for me as a former Chinese national to witness China’s transformation. The last time I visited Shanghai was back in 2005. I was 17 at the time. The time before that was my birth back in 1987. My family and I left Shanghai in 2001 when I was 13 and I really don’t remember much of it. This time, I was 36 years old, and I visited China to attend a conference, and I suppose, with slightly more money.
@@ -13,12 +15,22 @@ It was supposed to be an experience for me as a former Chinese national to witne
 
 China regularly touts its economic development over the last decades and uses Shanghai as a prima facie example. To me though, at least given the limited time I was here (slightly over a week), the city isn’t so different from 20 years ago. It may be because I really don’t remember what it was like 20 years ago so it is hard to compare and contrast. The bits and pieces that got stuck in my memory were the stuff that didn’t change at all. The architecture on the bund and the view across the river, the parks I used to play with my parents. Those didn’t change. I suppose there are several more skyscrapers across the bund river but the pearl tower remains the singular landmark that remains unmoved.
 
+<figure>
+<img src="/images/posts/a-visit-to-china-a-story-of-constrained-renaissance/street.jpg" />
+<figcaption></figcaption>
+</figure>
+
 Economic development had been tremendous. But then again, Shanghai had always been an economic powerhouse way before the 1949 liberation. People living in Shanghai were always more well off than the rest of the country. Historians remark that the tolerance for autocracy increases when the people are well off. This is certainly true here, whether for the locals or the Chinese visiting from other cities or foreigners to China. Given this prosperity, the overwhelming obsessions of the masses seem to be shopping and eating.
 
 What remains stagnant is the culture. Post liberation, it seems that the culture stopped evolving. This is most evident when I went to the China Art Museum. Aside from a large temporary exhibit on contemporary art (which I will describe at length later), the art I saw fell into three categories. First, there were many ancient works of calligraphy and watercolor from the various dynasties. Second, paintings by pre-liberation artists who were clearly trained in foreign schools. These refreshing works depicted people’s lives in colonial Shanghai in wonderful details. Lastly, a bunch of the garbage pieces extolling the virtues of the party or fictitious depictions of the revolutionary war. These were produced after the liberation and, are of no artistic value.
 
 There is a lot of copying. The society seems lost and drifting, and it clings onto whatever it could. In the museum, there are literally replicas of Van Gogh, Monet and other European masters; the famous pieces, of course, for people to admire and take photos of.  
 On the high street, we see Hermes and Gucci, Nike and Shake Shack, occupying way more space than they ought to, funneling billions out of China. On Chinese digital apps and on the streets, a cacophony of nauseating visual imagery bombards one’s senses at every turn with cartoon characters only slightly modified from Japanese productions. And without that fundamental history of the origin, these impulses grow without constraint and metastasize into something grotesque and disturbing.
+
+<figure>
+<img src="/images/posts/a-visit-to-china-a-story-of-constrained-renaissance/lobby.jpg" />
+<figcaption></figcaption>
+</figure>
 
 One can argue, and I agree, that bringing the population out of abject poverty and starvation is fundamentally more important than evolving the culture of the society. At some point however, it becomes no longer an option to separate the two.  
 Despite the financial security, what remains unchanged are the people. Notably wealthier, their brusque mannerisms, impatient demeanor, loud voices, damp smells, down to how they hack up and spit phlegm, remain the same. I have even seen one guy who took a shit in a dark corner on the bund in the evening while surrounded by thousands of pedestrians.

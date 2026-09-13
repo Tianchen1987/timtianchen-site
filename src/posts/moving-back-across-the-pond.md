@@ -2,8 +2,8 @@
 title: "Moving back across the pond"
 date: 2024-01-28
 categories:
-  - "Travel"
-  - "Personal"
+  - "Writing"
+  - "Introspection"
 summary: "A life measured in transatlantic moves."
 ---
 

@@ -2,7 +2,6 @@
 title: "Fairness vs justice"
 date: 2022-04-05
 categories:
-  - "Philosophy"
   - "Society"
 summary: "An engineer's point of view."
 ---

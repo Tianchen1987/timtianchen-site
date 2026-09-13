@@ -2,7 +2,7 @@
 title: "There is no free lunch"
 date: 2017-09-10
 categories:
-  - "Books"
+  - "Writing"
 summary: "First impressions of Chris Anderson's book 'Free'."
 hero: "/images/posts/there-is-no-free-lunch/hero.png"
 ---

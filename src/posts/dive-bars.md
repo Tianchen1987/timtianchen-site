@@ -2,7 +2,7 @@
 title: "Dive bars"
 date: 2024-11-10
 categories:
-  - "Personal"
+  - "Introspection"
   - "Writing"
 summary: "An ode to dive bars as the airport gates of drinking."
 hero: "/images/posts/dive-bars/hero.jpg"

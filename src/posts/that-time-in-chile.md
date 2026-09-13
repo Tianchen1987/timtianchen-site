@@ -2,7 +2,7 @@
 title: "That time in Chile"
 date: 2024-12-15
 categories:
-  - "Travel"
+  - "Writing"
   - "Introspection"
 summary: "Memories of sopaipillas."
 hero: "/images/posts/that-time-in-chile/hero.jpg"

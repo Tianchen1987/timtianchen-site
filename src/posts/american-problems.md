@@ -3,7 +3,7 @@ title: "American problems"
 date: 2017-09-10
 categories:
   - "Society"
-  - "Books"
+  - "Writing"
 summary: "Reading Amy Schumer and Trevor Noah back to back."
 ---
 

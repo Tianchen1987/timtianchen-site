@@ -3,7 +3,7 @@ title: "Fully stressed and strained design"
 date: 2017-04-15
 categories:
   - "Technology"
-  - "Research"
+  - "Academia"
 summary: "A heuristic for minimizing the mass of a lattice structure."
 ---
 

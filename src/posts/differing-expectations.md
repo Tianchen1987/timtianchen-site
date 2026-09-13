@@ -2,7 +2,6 @@
 title: "Differing expectations"
 date: 2015-02-01
 categories:
-  - "Research"
   - "Academia"
 summary: "Variable-term expectations."
 ---

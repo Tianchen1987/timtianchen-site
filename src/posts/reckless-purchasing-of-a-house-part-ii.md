@@ -2,7 +2,7 @@
 title: "Reckless purchasing of a house – Part II"
 date: 2022-07-09
 categories:
-  - "Personal"
+  - "Introspection"
 summary: "House purchase — repairs, regrets, and all."
 hero: "/images/posts/reckless-purchasing-of-a-house-part-ii/hero.png"
 ---

@@ -2,7 +2,7 @@
 title: "Reckless purchasing of a house – Part I"
 date: 2022-05-30
 categories:
-  - "Personal"
+  - "Introspection"
 summary: "How not to buy a house: from Zillow listing to closing in 34 days."
 hero: "/images/posts/reckless-purchasing-of-a-house-part-i/hero.jpeg"
 ---

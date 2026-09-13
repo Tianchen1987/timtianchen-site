@@ -2,7 +2,7 @@
 title: "Effective visual presentations"
 date: 2015-03-31
 categories:
-  - "Research"
+  - "Academia"
 summary: "What actually makes presentation slides good."
 ---
 

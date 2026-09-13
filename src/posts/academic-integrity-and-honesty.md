@@ -2,7 +2,7 @@
 title: "Academic integrity and honesty"
 date: 2015-02-12
 categories:
-  - "Research"
+  - "Academia"
 summary: "On Feynman's call for total honesty in research."
 ---
 

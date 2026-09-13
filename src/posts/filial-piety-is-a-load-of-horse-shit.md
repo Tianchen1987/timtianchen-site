@@ -2,7 +2,6 @@
 title: "filial piety is a load of horse shit"
 date: 2025-07-16
 categories:
-  - "Philosophy"
   - "Society"
 summary: "An unfair and unconsented contract on children."
 ---

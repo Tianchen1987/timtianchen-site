@@ -2,7 +2,7 @@
 title: "Theft by finding"
 date: 2017-07-16
 categories:
-  - "Books"
+  - "Writing"
 summary: "Re-listening to David Sedaris's diaries."
 ---
 

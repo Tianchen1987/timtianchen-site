@@ -2,7 +2,6 @@
 title: "On a train"
 date: 2017-04-17
 categories:
-  - "Travel"
   - "Writing"
 summary: "From Zurich to Amsterdam, does it really work?"
 ---

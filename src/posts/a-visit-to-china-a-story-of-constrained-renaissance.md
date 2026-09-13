@@ -2,7 +2,7 @@
 title: "A visit to China, a story of constrained renaissance"
 date: 2024-09-28
 categories:
-  - "Travel"
+  - "Writing"
   - "Society"
 summary: "Returning to Shanghai after two decades."
 hero: "/images/posts/a-visit-to-china-a-story-of-constrained-renaissance/hero.jpg"

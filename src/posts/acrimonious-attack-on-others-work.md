@@ -2,7 +2,7 @@
 title: "Acrimonious attack on other’s work"
 date: 2017-07-16
 categories:
-  - "Research"
+  - "Academia"
 summary: "Name-calling academic peer review."
 ---
 

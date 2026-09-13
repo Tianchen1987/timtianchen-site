@@ -2,7 +2,7 @@
 title: "Landing"
 date: 2015-03-31
 categories:
-  - "Travel"
+  - "Writing"
   - "Society"
 summary: "Reflecting on America's narrative of reinvention."
 ---

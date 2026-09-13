@@ -2,7 +2,7 @@
 title: "Car"
 date: 2025-01-21
 categories:
-  - "Personal"
+  - "Introspection"
 summary: "Buying a Honda Accord in the strange shortage economy of late 2021."
 ---
 

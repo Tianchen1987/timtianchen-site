@@ -3,7 +3,7 @@ title: "Hello darkness, my old friend"
 date: 2017-07-09
 categories:
   - "Introspection"
-  - "Travel"
+  - "Writing"
 summary: "A summer trip to the States."
 ---
 

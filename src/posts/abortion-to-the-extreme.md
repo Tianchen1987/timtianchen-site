@@ -3,7 +3,6 @@ title: "Abortion to the extreme"
 date: 2024-01-28
 categories:
   - "Society"
-  - "Philosophy"
 summary: "Rhetorical extrapolation on abortion."
 ---
 

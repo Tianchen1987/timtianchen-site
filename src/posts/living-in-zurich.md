@@ -2,7 +2,7 @@
 title: "Living in Zurich"
 date: 2015-02-01
 categories:
-  - "Travel"
+  - "Writing"
   - "Society"
 summary: "spotless, hyper-organized, efficient, and a little cold."
 hero: "/images/posts/living-in-zurich/hero.jpg"

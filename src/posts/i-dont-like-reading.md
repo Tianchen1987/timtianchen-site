@@ -2,7 +2,7 @@
 title: "I don’t like reading"
 date: 2015-02-27
 categories:
-  - "Research"
+  - "Academia"
 summary: "I hate reading academic literature — even my own papers."
 ---
 

@@ -3,7 +3,7 @@ title: "Arcade conferences"
 date: 2025-08-08
 categories:
   - "Academia"
-  - "Travel"
+  - "Writing"
 summary: "Airports are places of comfort."
 ---
 

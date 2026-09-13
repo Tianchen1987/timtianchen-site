@@ -2,7 +2,7 @@
 title: "Zurich sunset"
 date: 2015-12-23
 categories:
-  - "Travel"
+  - "Writing"
 summary: "A set of photographs of the sun setting over Zurich."
 hero: "/images/posts/zurich-sunset/hero.jpg"
 ---

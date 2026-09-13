@@ -2,7 +2,7 @@
 title: "Religions"
 date: 2017-09-10
 categories:
-  - "Philosophy"
+  - "Society"
 summary: "A Hitchens-inspired case against religion."
 ---
 

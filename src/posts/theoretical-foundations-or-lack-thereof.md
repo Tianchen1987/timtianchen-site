@@ -2,7 +2,7 @@
 title: "Theoretical foundations or lack thereof"
 date: 2015-02-27
 categories:
-  - "Research"
+  - "Academia"
   - "Introspection"
 summary: "The nagging fear of being deficient in the fundamentals, and climbing the knowledge genealogy tree."
 ---

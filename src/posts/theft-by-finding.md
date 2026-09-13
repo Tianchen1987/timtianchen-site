@@ -3,7 +3,7 @@ title: "Theft by finding"
 date: 2017-07-16
 categories:
   - "Books"
-summary: "Re-listening to David Sedaris's diaries, and how audiobooks rob a book of full attention."
+summary: "Re-listening to David Sedaris's diaries."
 ---
 
 I have started listening to David Sedaris’s diary “Theft by Finding” for a second time in a row. That’s the problem with enjoying an audiobook, life has too many distractions. A book is meant to be enjoyed as an activity that requires 100% of my attention, yet with an audiobook, the temptation of multi-tasking proves too alluring.

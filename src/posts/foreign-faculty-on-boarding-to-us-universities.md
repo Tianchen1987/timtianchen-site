@@ -3,7 +3,7 @@ title: "Foreign faculty on-boarding to US universities"
 date: 2024-01-28
 categories:
   - "Academia"
-summary: "A guide to the opaque, deliberately difficult process of onboarding as foreign faculty in the US."
+summary: "Opaque and deliberate difficulties: onboarding in the US."
 ---
 
 As the next cohort of newly minted assistant professors draft plans to uproot their lives (yet again) to a distant land, I hope to shed some lights on this opaque and intentionally difficult process. I suppose my own journey was unique, but then again, by the point a person becomes a faculty member, their journeys are probably no less unique. What follows are the experiences of a Chinese-born Canadian national emigrating to the US from Switzerland, to take up a post in a publicly funded institution of higher learning.

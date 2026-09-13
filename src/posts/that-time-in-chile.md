@@ -4,7 +4,7 @@ date: 2024-12-15
 categories:
   - "Travel"
   - "Introspection"
-summary: "Memories of a year in Chile, pulled loose by an article about sopaipillas."
+summary: "Memories of sopaipillas."
 ---
 
 I am writing this after reading an article on the NYTimes about [Sopaipillas](https://www.nytimes.com/2024/09/26/dining/sopapillas.html). Memories are like that, aren’t they? Something random pulls at a thread, and you just keep on pulling.

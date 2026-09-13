@@ -3,7 +3,7 @@ title: "Religions"
 date: 2017-09-10
 categories:
   - "Philosophy"
-summary: "A Hitchens-inspired case against religion and the concept of a god."
+summary: "A Hitchens-inspired case against religion."
 ---
 
 I feel like I write about religion too much, but then Christopher Hitchens published at least a book on it. He published a book defacing religion, or rather exposing it for what it is.

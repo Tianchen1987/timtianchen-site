@@ -4,7 +4,7 @@ date: 2022-03-12
 categories:
   - "Writing"
   - "Introspection"
-summary: "A lifelong struggle with writing, in every language he has ever tried."
+summary: "A lifelong struggle with language, in every language I have tried."
 ---
 
 <a href="/recordings/writing.m4a"><em>Audio transcript</em></a>

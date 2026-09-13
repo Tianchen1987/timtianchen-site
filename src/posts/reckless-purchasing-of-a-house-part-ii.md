@@ -3,10 +3,9 @@ title: "Reckless purchasing of a house – Part II"
 date: 2022-07-09
 categories:
   - "Personal"
-summary: "The aftermath of a too-fast house purchase — repairs, regrets, and all."
+summary: "House purchase — repairs, regrets, and all."
 hero: "/images/posts/reckless-purchasing-of-a-house-part-ii/hero.png"
 ---
-
 This is part II of the “how not to buy a house in a week” trilogy. Read [part I](/posts/reckless-purchasing-of-a-house-part-i/) first.
 
 #### Day 8
@@ -46,8 +45,6 @@ As a part of the mortgage lending process. The appraisal came back with a number
 **Day 36**
 
 The mortgage calculation (U.S. specific) follows a simple set of equations. The calculation ensures that the lenders pays the exact same amount every month in the entire loan period. The payment per month *c* can be calculated using the following equation, note that this will be the monthly payment through the entire loan period.
-
-![](/images/posts/reckless-purchasing-of-a-house-part-ii/hero.png)
 
 Where *P* is the principal (the amount of loan we got), *r* is the annual interest rate, *n* is the number of payments per year (in our case, it is 12), and *t* is the loan terms in years. The available terms are 5 years, 10 years, 15 years and 30 years. The yearly rate is largely dictated by the federal treasury or the federal reserve, or the federal bank, or some other people. In Excel, this function is called “PMT”. It calculates the payment for a loan based on constant payments and a constant interest rate. The derivation is given in [Wikipedia](https://en.wikipedia.org/wiki/Compound_interest), and it includes a nifty use of geometric series.
 

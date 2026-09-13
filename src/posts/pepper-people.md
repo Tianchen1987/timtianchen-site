@@ -4,7 +4,7 @@ date: 2016-07-08
 categories:
   - "Academia"
   - "Introspection"
-summary: "Reflections at the midpoint of a PhD, with the end of the tunnel still out of sight."
+summary: "Reflections at the midpoint of a PhD."
 ---
 
 Coming September will be the start of my third year as a PhD student. I have learnt a lot. Though I still do not see the light at the end of the tunnel.

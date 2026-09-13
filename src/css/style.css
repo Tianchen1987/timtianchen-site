@@ -423,6 +423,37 @@ a {
   font-style: italic;
 }
 
+/* Hero image on a post page: deliberately smaller than the text column,
+   with an optional caption from the `heroCaption` frontmatter key. */
+.post-hero {
+  margin: 1.5rem auto 2.25rem;
+  text-align: center;
+}
+
+.post-hero img {
+  max-width: 22rem;
+  max-height: 26rem;
+  width: auto;
+  height: auto;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.post-hero figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 0.5rem;
+  max-width: 22rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 760px) {
+  .post-hero img { max-width: 100%; max-height: 20rem; }
+}
+
 .post-body img {
   max-width: 100%;
   height: auto;

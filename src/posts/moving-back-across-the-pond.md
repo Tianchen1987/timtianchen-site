@@ -4,7 +4,7 @@ date: 2024-01-28
 categories:
   - "Travel"
   - "Personal"
-summary: "A life measured in transatlantic moves, beginning with a 2001 flight from Shanghai."
+summary: "A life measured in transatlantic moves."
 ---
 
 The first time I flew, I went from Shanghai to Toronto back in August 2001. I didn’t (still don’t) even know which airline I took, or where the stop over was (I remember there being one, where we had to unload and reload our luggage), or even which ocean we crossed (I suspect it was the Atlantic). I was 13 back then. I didn’t know much, but I knew China was not for me.

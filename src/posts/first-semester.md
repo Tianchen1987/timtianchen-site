@@ -3,13 +3,10 @@ title: "First semester"
 date: 2022-03-08
 categories:
   - "Academia"
-summary: "Surviving — and quietly enjoying — a first semester as a new professor, memes and all."
+summary: "Surviving and enjoying the first semester as a new professor, memes and all."
 hero: "/images/posts/first-semester/hero.png"
 ---
-
 I can be seen around campus walking in my ripped jeans, with a dopy grin on my face, and a notebook and pen in my hand. I try tricking students into thinking I am a student. They make memes of me, it’s great fun. Here are some memes that a student in solid mechanics, Mr. Acosta, made.
-
-![](/images/posts/first-semester/hero.png)
 
 ![](/images/posts/first-semester/memes_13-1.jpg)
 

@@ -4,7 +4,7 @@ date: 2015-03-31
 categories:
   - "Travel"
   - "Society"
-summary: "Landing in the UK to an Obama audiobook, and reflecting on America's narrative of reinvention."
+summary: "Reflecting on America's narrative of reinvention."
 ---
 
 I landed in Gatwick to the voice of Barack Obama after a short flight from Zurich. Listening to his first book after his second, the personal growth is as apparent as the change in the country he calls home. Perhaps in no other country than United States can a person follow a narrative as diverse as his.

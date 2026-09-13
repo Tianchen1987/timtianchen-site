@@ -3,7 +3,7 @@ title: "Effective visual presentations"
 date: 2015-03-31
 categories:
   - "Research"
-summary: "What actually makes presentation slides good, beyond merely looking pretty."
+summary: "What actually makes presentation slides good."
 ---
 
 Why are those slides so damn pretty?!
@@ -35,3 +35,5 @@ Zero animation unless your thing actually moves like that. Some slide to slide t
 - Establishing your professional identity
 - Collaboration
 - Successful Networking Techniques
+
+Note that this was written in 2015. The me in 2026 still does some of this (the OCD part), but the practicality of giving dozens of talks a year changes things.

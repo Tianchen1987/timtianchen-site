@@ -4,7 +4,7 @@ date: 2017-04-15
 categories:
   - "Technology"
   - "Research"
-summary: "Explaining Fully Stressed Design, a heuristic for minimizing the mass of a lattice structure."
+summary: "A heuristic for minimizing the mass of a lattice structure."
 ---
 
 Fully Stressed Design (FSD) is a heuristic-based optimization method that minimizes the mass of a lattice structure by adjusting the cross section area of each bar.

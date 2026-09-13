@@ -3,7 +3,7 @@ title: "A nightmare"
 date: 2022-02-26
 categories:
   - "Introspection"
-summary: "Transcribing a disorienting nightmare about being unable to find a job."
+summary: "Unable to find a job."
 ---
 
 *[audio transcript](/recordings/a_nightmare.m4a) – I will begin transcribing what I write*

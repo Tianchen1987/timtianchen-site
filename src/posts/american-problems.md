@@ -4,7 +4,7 @@ date: 2017-09-10
 categories:
   - "Society"
   - "Books"
-summary: "Reading Amy Schumer and Trevor Noah back to back, and what it reveals about America."
+summary: "Reading Amy Schumer and Trevor Noah back to back."
 ---
 
 I just finished reading Amy Schumer’s autobiographical account of snippets of her life. This is right after reading a similar work by Trevor Noah. It’s interesting to see how two people from background that couldn’t be more different both end up in similar circles.

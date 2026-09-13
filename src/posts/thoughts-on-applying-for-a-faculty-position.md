@@ -3,7 +3,7 @@ title: "Thoughts on applying for a faculty position"
 date: 2022-02-05
 categories:
   - "Academia"
-summary: "Personal notes on the opaque ordeal of applying for a faculty position."
+summary: "The opaque ordeal of the faculty job market."
 ---
 
 There is already more than enough information and advice on how to go about applying for a faculty position on the internet, so I won’t reiterate what others have said. Of my personal experience, on the whole it was quite similar to what you have read already. Applying for such a job is reminiscent of applying to bachelor programs in North America; a bunch of schools have similar deadlines (Nov. to Dec.) and you need to send a bunch of things as a part of the application package (CV, cover letter, statements, and so on). By February, you will have heard back from some schools asking for a screening interview. Past that, you get invited to the final interview which typically happens around March to April. After grueling days of talking to upward of 20 different people and trying to appear intelligent, you wait for an answer. With any luck, you get that email with the words “We are pleased to offer you the position of …”, and after jumping up and down for about 10 minutes, you start going through the contract with a fine-tooth comb. Then comes negotiation, and signing of the contract. The last bit is the preparation for the move, and the anxiety of doing a job that you are wholly not prepared for. I will write more on that topic very soon.

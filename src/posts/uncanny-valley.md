@@ -3,7 +3,7 @@ title: "Uncanny valley"
 date: 2017-04-02
 categories:
   - "Technology"
-summary: "On the uncanny valley — why almost-human replicas unsettle us."
+summary: "Why almost-human replicas unsettle us."
 ---
 
 The hypothesis that human replicas which appear almost, but not exactly, like real human beings elicit feelings of eeriness and revulsion among some observers.

@@ -3,7 +3,7 @@ title: "Academic integrity and honesty"
 date: 2015-02-12
 categories:
   - "Research"
-summary: "On Feynman's call for total honesty in research: presenting the bad along with the good."
+summary: "On Feynman's call for total honesty in research."
 ---
 
 I have been listening to Richard Feynman’s autobiography on his life experiences.

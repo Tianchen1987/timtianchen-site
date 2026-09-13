@@ -5,9 +5,8 @@ categories:
   - "Introspection"
 summary: "A year of violent changes."
 hero: "/images/posts/moving-again-again/hero.jpg"
+heroCaption: "An empty great hall of the British Museum after a fire alarm evacuation."
 ---
-
-![](/images/posts/moving-again-again/hero.jpg)
 
 Things of great mass do not like to be jerked around, and when a great force comes, a lot of stresses develop and cracks form and propagate. Steel doesn't feel pain(?) but I definitely did and still do. These events are perceived through the lens of my mental state, which at the moment, is tuned to see negativity more than anything else. While I objectively know what I am writing are factually good things that I consciously want, it is hard for me to feel that "goodness" amidst the hurdles I have to jump to get them.
 

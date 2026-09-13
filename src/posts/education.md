@@ -3,7 +3,7 @@ title: "Education"
 date: 2015-03-31
 categories:
   - "Society"
-summary: "Arguing against judging teachers by their students' standardized test scores."
+summary: "Judging teachers by standardized tests."
 ---
 
 A teacher should be evaluated partly based on her/his students’ standard test scores. One comment said of an article in the New York Times, “About the ONLY thing you can truly evaluate a teacher on…is INTENT.”

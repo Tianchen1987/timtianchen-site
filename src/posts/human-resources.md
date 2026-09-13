@@ -3,7 +3,7 @@ title: "Human Resources"
 date: 2017-04-18
 categories:
   - "Academia"
-summary: "A no-holds-barred rant against HR departments and the very idea that humans are 'resources.'"
+summary: "Humans are not 'resources.'"
 ---
 
 Those little leeches who sit together in one corner of the office, yet no one knows what they do all day.

@@ -4,7 +4,7 @@ date: 2017-04-17
 categories:
   - "Travel"
   - "Writing"
-summary: "Musings written on a sleeper train from Zurich to Amsterdam, on whether they really work."
+summary: "From Zurich to Amsterdam, does it really work?"
 ---
 
 ## Sleeper trains

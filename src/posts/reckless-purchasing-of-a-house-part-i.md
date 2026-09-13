@@ -6,9 +6,6 @@ categories:
 summary: "How not to buy a house: from Zillow listing to closing in 34 days."
 hero: "/images/posts/reckless-purchasing-of-a-house-part-i/hero.jpeg"
 ---
-
-![](/images/posts/reckless-purchasing-of-a-house-part-i/hero.jpeg)
-
 This occurred between April 16, 2022 and May 20, 2022. In a span of one month and 4 days, we went from seeing the house on Zillow to signing the closing documents. The following is an account of what transpired between those two dates. It goes without saying that the experience is anecdotal and has no statistical relevance. This was a week after my lab got [furnished](/posts/building-a-lab/).
 
 #### Day 0

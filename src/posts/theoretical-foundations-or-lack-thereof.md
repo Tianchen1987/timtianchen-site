@@ -4,7 +4,7 @@ date: 2015-02-27
 categories:
   - "Research"
   - "Introspection"
-summary: "Wrestling with the nagging fear of being deficient in the fundamentals, and climbing the knowledge genealogy tree."
+summary: "The nagging fear of being deficient in the fundamentals, and climbing the knowledge genealogy tree."
 ---
 
 It has been a nagging thought at the back of my mind for a while now; the thought that I am uniquely deficient in fundamental knowledge. I have been climbing up the knowledge genealogy tree lately. Seeing that I have 4 years to do something, I decided not to rush much to produce results in little superficial chunks. This is when I realized that the climb is long and steep, and it feels like many have done this climb in reverse in their undergraduate years.
@@ -16,3 +16,5 @@ So I looked that up on Wikipedia. Failing to understand that article, I went fur
 Along a similar path, Michell’s truss optimization is proven to be a convex optimization problem, which can be solved with many analytical methods. The problem? I cannot follow the linear algebra, inequalities, and absolute values.
 
 What had I been doing in my undergrad years?
+
+In 2026, AI is changing this in significant and meaningful ways.

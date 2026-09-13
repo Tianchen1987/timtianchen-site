@@ -1,10 +1,10 @@
 ---
-title: "filial piety is a load of horse shit"
+title: "filial piety is a load of horse shit"
 date: 2025-07-16
 categories:
   - "Philosophy"
   - "Society"
-summary: "A blunt argument that filial piety imposes an unfair, unconsented contract on children."
+summary: "An unfair and unconsented contract on children."
 ---
 
 It is horribly unethical if parents have kids with the expectation that these kids will one day take care of them. Because the kids had no say in the matter to be born. If the kid was not born, it would have no notion of any of this.

@@ -4,12 +4,9 @@ date: 2022-02-19
 categories:
   - "Introspection"
   - "Academia"
-summary: "Sitting alone in a bar with the chronic, gnawing ailment of imposter syndrome."
+summary: "Sitting alone in a bar with an chronic, gnawing ailment."
 hero: "/images/posts/imposter-syndrome/hero.jpeg"
 ---
-
-![](/images/posts/imposter-syndrome/hero.jpeg)
-
 *Thoughts that emerged as I sat alone in a bar*
 
 I suffer from this ailment chronically. It is not exactly a disease in the physical sense, I also doubt that it would make an appearance in a future DSM anytime soon. But I do suffer from it, as in, this syndrome negatively impacts my life, and has been for years.

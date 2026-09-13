@@ -3,13 +3,10 @@ title: "There is no free lunch"
 date: 2017-09-10
 categories:
   - "Books"
-summary: "First impressions of Chris Anderson's book 'Free' and its mostly self-evident economics."
+summary: "First impressions of Chris Anderson's book 'Free'."
 hero: "/images/posts/there-is-no-free-lunch/hero.png"
 ---
-
 Impression of the book “Free” by Chris Anderson (the founder of TED talks) after first read.
-
-![](/images/posts/there-is-no-free-lunch/hero.png)
 
 The opinions and analyses of the author are more or less self evident. He managed to put down with a pen what people understand instinctively. however, this is not meant to be disparaging his work, the fact that he can clearly elucidate these new technological and social developments, and relate them to age-old principles of economy is worth noting.
 

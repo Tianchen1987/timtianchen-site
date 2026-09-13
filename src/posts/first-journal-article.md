@@ -4,7 +4,7 @@ date: 2017-04-01
 categories:
   - "Research"
   - "Academia"
-summary: "The bruising road to a first published paper, through two rejections."
+summary: "The bruising road to a first published paper."
 ---
 
 So I published my first journal article after months of editing and proof-reading.

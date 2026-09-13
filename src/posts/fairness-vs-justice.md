@@ -4,7 +4,7 @@ date: 2022-04-05
 categories:
   - "Philosophy"
   - "Society"
-summary: "Pitting fairness against justice from an engineer's point of view."
+summary: "An engineer's point of view."
 ---
 
 I aim to address this weighty competition between two concepts from an engineer’s perspective. And before we discuss further, we note that neither fairness nor justice are inherently “good” or “bad”, they are just some moral arguments people make when they have too much time on their hands. We further assume that we subscribe to egalitarianism, the notion that each human should have exactly equal rights. Here is one definition of these two concepts in two sentences by people more learnt than I am,

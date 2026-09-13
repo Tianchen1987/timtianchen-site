@@ -11,6 +11,12 @@ layout: layouts/base.njk
       </p>
     {% endif %}
   </header>
+  {% if hero %}
+    <figure class="post-hero">
+      <img src="{{ hero }}" alt="{{ heroAlt if heroAlt else '' }}" />
+      {% if heroCaption %}<figcaption>{{ heroCaption }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
   <div class="post-body">{{ content | safe }}</div>
   <nav class="post-footer-nav"><a href="/">← All posts</a></nav>
 </article>

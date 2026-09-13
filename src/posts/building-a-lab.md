@@ -3,13 +3,10 @@ title: "Building a lab"
 date: 2022-05-21
 categories:
   - "Academia"
-summary: "Turning a horror-movie lab space into a working research lab."
+summary: "Retrofiting a horror-movie space."
 hero: "/images/posts/building-a-lab/hero.jpg"
 ---
-
-![](/images/posts/building-a-lab/hero.jpg)
-
-The lab spaces I was given when I started here reminded me of countless horror movies, where the protagonist wakes up chained to the u-bent of a toilet in a damp derelict engine room. He would strain his legs to push himself upright, only to have his feet slip under him on the greasy linoleum floor. He eyes his new surrounding with the dawning realization that he is about to die there, and maybe in 10 years or so, his bare ankle may eventually be able to slip out of the shackle. (This is how I imagine David Sedaris would write “Saw” the movie).
+The lab spaces I was given when I started here reminded me of countless horror movies, where the protagonist wakes up chained to the u-bent of a toilet in a damp derelict engine room. He would strain his legs to push himself upright, only to have his feet slip under him on the greasy linoleum floor. He eyes his new surrounding with the dawning realization that he is about to die there, and maybe in 10 years or so, his bare ankle bone may eventually be able to slip out of the shackle. His skull would voice "dang, it's the wrong ankle". (This is how I imagine David Sedaris would write “Saw” the movie).
 
 ![](/images/posts/building-a-lab/img_4686.jpeg)
 

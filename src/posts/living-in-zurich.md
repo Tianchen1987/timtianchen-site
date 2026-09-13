@@ -4,20 +4,15 @@ date: 2015-02-01
 categories:
   - "Travel"
   - "Society"
-summary: "An affectionate, exasperated portrait of Zurich — spotless, hyper-organized, efficient, and a little cold."
+summary: "spotless, hyper-organized, efficient, and a little cold."
 hero: "/images/posts/living-in-zurich/hero.jpg"
+heroCaption: "Limmat river over looking the Zurich landscape."
 ---
-
 While I have lived in many places over the globe, there isn’t many parallels I can draw to Zurich simply because they are all so different.
 
 **The good**
 
 It is clean, efficient, and uniform. The mountainous air breathes fresh, the Limmat river is green and on a good day almost transparent, and there is no litter on the street save for some cigarette butts.
-
-<figure>
-<img src="/images/posts/living-in-zurich/hero.jpg" />
-<figcaption>Limmat river over looking the Zurich landscape, with several churches in the distance.</figcaption>
-</figure>
 
 Swiss people must live on a higher moral plane, there are indications everywhere suggesting that they are willing to pay more for better, and thereby passing referendums after referendums demanding better and stricter social and environmental regulatory laws. Using the example of garbage collection; the waste is divided into five categories, garbage, organic, paper recyclables, plastics, and glass. Each has its own method, time and place of being collected. Garbage requires special bags called Zuri-sac, purchasable in stores (not cheap), and placed in specially marked garbage bins allocated to each building. Organics – haven’t figured this out yet but also special bags and green bins. Paper and cardboard needs to be properly secured with string and placed next to the Zuri-sac bins. Plastics must be brought to stores. Glass is further separated by colour into brown, green, and clear at the refuse, also distributed through out the city. Special disposables such as electronics, christmas trees, and furniture are collected at certain dates given in a yearly calendar, or -apparently- along a tram line with a specialized tram.
 

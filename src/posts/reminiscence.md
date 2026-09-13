@@ -4,7 +4,7 @@ date: 2024-12-15
 categories:
   - "Introspection"
   - "Academia"
-summary: "Looking back on the postdoc years as the most fun of an academic life."
+summary: "The fun Postdoc years."
 ---
 
 Being a post-doc was the most fun period in my professional life so far. That statement seems to be true only in retrospect, and it is only true because I found the next job that an academic is “supposed to” find. For the post-docs who are on the job market, as I was last year, life was misery itself, and that may be due to the transitory nature of a post-doc position. It is a stepping stone that one goes through to become a faculty member at some institution. There must be some well-thought out theory on life events that fall into that category.

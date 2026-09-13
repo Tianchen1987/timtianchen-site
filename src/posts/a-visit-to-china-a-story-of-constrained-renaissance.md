@@ -4,7 +4,7 @@ date: 2024-09-28
 categories:
   - "Travel"
   - "Society"
-summary: "Returning to Shanghai after two decades to witness a constrained renaissance."
+summary: "Returning to Shanghai after two decades."
 ---
 
 It was supposed to be an experience for me as a former Chinese national to witness China’s transformation. The last time I visited Shanghai was back in 2005. I was 17 at the time. The time before that was my birth back in 1987. My family and I left Shanghai in 2001 when I was 13 and I really don’t remember much of it. This time, I was 36 years old, and I visited China to attend a conference, and I suppose, with slightly more money.

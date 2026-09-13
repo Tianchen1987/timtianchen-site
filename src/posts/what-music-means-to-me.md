@@ -4,12 +4,12 @@ date: 2017-04-15
 categories:
   - "Writing"
   - "Introspection"
-summary: "An honest admission of a fairly ordinary, undiscerning relationship with music."
+summary: "An honest and embarrassing admission."
 ---
 
-If you were expecting a manifesto of my excellent musical taste, you will be sorely disappointed.
+If you were expecting a manifesto of my excellent musical taste, you will be sorely disappointed. I have a no taste in music at all.
 
-Of course I listen to music, on a daily basis. I even subscribe as a paid customer to Spotify. What I lack however, I will explain. 1) What I notice from other people is that music invokes some kind of emotion. It seems that there are songs which they connect to, songs that don’t, and songs they love or hate. 2) There seems to also be a need to seek out good music, to leaf through tracks in a bin to find The one, both metaphorically and literally. 3) Lastly, people have a taste for sound, and can gauge how good a speaker is.
+Of course I listen to music, on a daily basis. I even subscribe as a paid customer to Spotify (then Apple). What I lack however, I will explain. 1) What I notice from other people is that music invokes some kind of emotion. It seems that there are songs which they connect to, songs that don’t, and songs they love or hate. 2) There seems to also be a need to seek out good music, to leaf through tracks in a bin to find The one, both metaphorically and literally. 3) Lastly, people have a taste for sound, and can gauge how good a speaker is.
 
 I have none of these three qualities, and by god have I tried, with no success, to cultivate them as not to appear uncultured. Over these years of trying, I have some introspection that I can share with limited embarrassment. Please don’t think these are hyperbolic to make a point, I literally mean them.
 
@@ -17,6 +17,6 @@ I rarely listen to the lyrics of a song. As such, I have no idea what the messag
 
 I don’t have an explanation in general for why some people have taste in music and others like me have not. In my particular case, I can think of two reasons.
 
-didn’t grow up with music. While kids listen to music every minute of their lives, I spent most of my childhood in China and had no access to music. I had several quite severe ear infections when I was young.
+I didn’t grow up with music. While kids listen to music every minute of their lives, I spent most of my childhood in China and had no access to music. I had several quite severe ear infections when I was young.
 
 Before you call me an uncouth brute, I do have an appreciation in art. But that is another subject.

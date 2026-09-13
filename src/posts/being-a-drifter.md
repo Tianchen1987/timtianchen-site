@@ -4,7 +4,7 @@ date: 2017-04-15
 categories:
   - "Academia"
   - "Introspection"
-summary: "The wry parallels between academics and drifters."
+summary: "The wry parallels."
 ---
 
 Things that an academic and a drifter have in common:

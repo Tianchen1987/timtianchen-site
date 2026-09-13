@@ -4,7 +4,7 @@ date: 2025-08-08
 categories:
   - "Academia"
   - "Travel"
-summary: "How endless conference travel turns airports into places of comfort."
+summary: "Airports are places of comfort."
 ---
 
 At some point, after I have gone on so many trips to so many different cities, airports become places of familiarity. The stress gets taken away and replaced by a sense of knowing. I arrive at the border control, I go through the security, I step with my socks on that disgusting mat, and I walk to the gate. I board the plane and sit. It’s the same routine every time. I have long stopped trying to press different buttons on the screen, on the armrest, or flip through the in flight magazines.

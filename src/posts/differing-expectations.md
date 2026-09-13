@@ -4,7 +4,7 @@ date: 2015-02-01
 categories:
   - "Research"
   - "Academia"
-summary: "Comparing the clear, short-term expectations of an engineering firm with the open-ended ambiguity of academic research."
+summary: "Variable-term expectations."
 ---
 
 I had a talk with a friend who also went from Delft to Arup to ETH, and shared the observations of our first months here.

@@ -3,7 +3,7 @@ title: "I don’t like reading"
 date: 2015-02-27
 categories:
   - "Research"
-summary: "A researcher's confession that he hates reading academic literature — even his own papers."
+summary: "I hate reading academic literature — even my own papers."
 ---
 
 I love reading, but I hate reading academic literature. I even hate reading my own papers.

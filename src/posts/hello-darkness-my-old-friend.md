@@ -4,7 +4,7 @@ date: 2017-07-09
 categories:
   - "Introspection"
   - "Travel"
-summary: "A summer trip to the States shadowed by a familiar, returning darkness."
+summary: "A summer trip to the States."
 ---
 
 I took a trip to the States this summer, first a brief stop on the east coast, then to LA.

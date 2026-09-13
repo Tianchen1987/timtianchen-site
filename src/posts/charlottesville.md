@@ -5,14 +5,9 @@ categories:
   - "Society"
 summary: "A reckoning with the white-supremacist march in Charlottesville."
 hero: "/images/posts/charlottesville/hero.jpg"
+heroCaption: "Don’t Tread on Me."
 ---
-
 *On what transpired in Charlottesville, Virginia.*
-
-<figure>
-<img src="/images/posts/charlottesville/hero.jpg" />
-<figcaption>Alt-right members preparing to enter Emancipation Park holding Nazi, Confederate, and Gadsden “Don’t Tread on Me” flags.</figcaption>
-</figure>
 
 A group comprised of Neo-nazis, white supremacists, and Klansmen held a march in Charlottesville to protest what they see as the degradation of American values. Near the conclusion of the parade, one member mowed down counter-protesters and in doing so, he killed a woman. What happened after this was as surreal as Trump’s presidency, but you can read the news on that, many days over. Basically, every single person condemned this as a terror attack, except Trump, who placed equal blame on the protesters and the counter-protesters. But no one seems to want to look deeper into the reason behind this demonstration of pure hatred.
 

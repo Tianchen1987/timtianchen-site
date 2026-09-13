@@ -4,7 +4,7 @@ date: 2015-03-04
 categories:
   - "Research"
   - "Academia"
-summary: "How much help should you actually give the students you supervise?"
+summary: "How much help should you give the students?"
 ---
 
 How much help do you give your students?

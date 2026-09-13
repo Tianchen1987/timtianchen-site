@@ -6,9 +6,6 @@ categories:
 summary: "A set of photographs of the sun setting over Zurich."
 hero: "/images/posts/zurich-sunset/hero.jpg"
 ---
-
-![](/images/posts/zurich-sunset/hero.jpg)
-
 ![](/images/posts/zurich-sunset/2.jpg)
 
 ![](/images/posts/zurich-sunset/3.jpg)

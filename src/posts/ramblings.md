@@ -3,7 +3,7 @@ title: "Ramblings"
 date: 2013-10-14
 categories:
   - "Technology"
-summary: "A gripe about how large organizations inevitably standardize on clunky, unwieldy software."
+summary: "Clunky, unwieldy software."
 ---
 
 ##### Microsoft

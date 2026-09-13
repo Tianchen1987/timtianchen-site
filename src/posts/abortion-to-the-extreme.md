@@ -4,8 +4,10 @@ date: 2024-01-28
 categories:
   - "Society"
   - "Philosophy"
-summary: "Using the rhetorical trick of extrapolation, and watching where it breaks down, on abortion."
+summary: "Rhetorical extrapolation on abortion."
 ---
+
+Disclaimer: I am not a woman. I firmly believe abortion is solely the choice of the particular woman in question. My position follows the one of Canada, which is that abortion is legal throughout pregnancy and is publicly funded. Opponents have used extremus argument on late-term abortions as to fear-monger, even though the occurance of this is minuscule and often necessary.
 
 When in a debate or an argument, I find myself often resorting to extrapolation. I point out the flaw in the other person’s train of thought by taking what they say to the extreme. Needless to say, this is a cheap trick that I play, and it is logically flawed in many situations. Having said that, I will apply the same reasoning to the abortion debate. I discount arguments that cannot be quantified, e.g. a person’s conviction that abortion is not allowed by the dictates of the spaghetti monster, and focus solely on the rational arguments put forth by both the pro-choice and pro-life side. Note that since the Supreme Court ruling of Dobbs v. Jackson, things have changed quite a bit, for the worse.
 

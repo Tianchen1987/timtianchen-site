@@ -5,3 +5,6 @@ _site/
 
 # Drafts (work in progress, not published)
 src/posts/draft/
+
+# Private footnotes (withheld detail for published posts)
+src/posts/footnotes/

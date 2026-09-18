@@ -4,6 +4,7 @@ date: 2024-01-28
 categories:
   - "Writing"
   - "Introspection"
+  - "Practical"
 summary: "A life measured in transatlantic moves."
 ---
 

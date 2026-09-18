@@ -3,6 +3,7 @@ title: "Difficulties with supervising"
 date: 2015-03-04
 categories:
   - "Academia"
+  - "Practical"
 summary: "How much help should you give the students?"
 ---
 

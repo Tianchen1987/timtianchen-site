@@ -4,6 +4,7 @@ date: 2015-02-01
 categories:
   - "Writing"
   - "Society"
+  - "Practical"
 summary: "spotless, hyper-organized, efficient, and a little cold."
 hero: "/images/posts/living-in-zurich/hero.jpg"
 heroCaption: "Limmat river over looking the Zurich landscape."

@@ -416,12 +416,49 @@ a {
   margin: 2rem 0 0.75rem;
 }
 
+/* --- Block quotes ---
+   Markdown `>` quotes render here. Add an optional source line with
+   <cite>Author, *Title*, Year</cite> as the last line of the quote. */
 .post-body blockquote {
-  margin: 1.5rem 0;
-  padding-left: 1rem;
-  border-left: 3px solid var(--rule);
+  position: relative;
+  margin: 2rem 0;
+  padding: 0.3rem 0 0.3rem 2.6rem;
+  color: var(--fg);
+  font-style: normal;
+}
+
+.post-body blockquote::before {
+  content: "\201C"; /* “ — decorative opening quote mark */
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 3rem;
+  line-height: 1;
+  color: var(--accent);
+  opacity: 0.45;
+}
+
+.post-body blockquote p {
+  margin: 0 0 0.9rem;
+}
+
+.post-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.post-body blockquote cite {
+  display: block;
+  margin-top: 0.7rem;
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
   color: var(--muted);
-  font-style: italic;
+}
+
+.post-body blockquote cite::before {
+  content: "\2014\00a0"; /* em dash + nbsp */
 }
 
 /* Hero image on a post page: deliberately smaller than the text column,

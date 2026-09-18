@@ -7,7 +7,7 @@ GitHub Pages.
 
 ```sh
 npm install
-npm run serve     # local dev server at http://localhost:8080
+npm start         # local dev server at http://localhost:8080
 npm run build     # build to _site/
 ```
 

@@ -3,6 +3,7 @@ title: "First semester"
 date: 2022-03-08
 categories:
   - "Academia"
+  - "Practical"
 summary: "Surviving and enjoying the first semester as a new professor, memes and all."
 hero: "/images/posts/first-semester/hero.png"
 ---

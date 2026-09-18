@@ -3,6 +3,7 @@ title: "Thoughts on applying for a faculty position"
 date: 2022-02-05
 categories:
   - "Academia"
+  - "Practical"
 summary: "The opaque ordeal of the faculty job market."
 ---
 

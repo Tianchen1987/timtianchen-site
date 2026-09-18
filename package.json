@@ -4,8 +4,8 @@
   "private": true,
   "description": "Staying Afloat — a personal blog.",
   "scripts": {
+    "start": "eleventy --serve",
     "build": "eleventy",
-    "serve": "eleventy --serve",
     "clean": "rm -rf _site"
   },
   "devDependencies": {

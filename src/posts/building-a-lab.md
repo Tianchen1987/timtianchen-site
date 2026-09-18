@@ -3,6 +3,7 @@ title: "Building a lab"
 date: 2022-05-21
 categories:
   - "Academia"
+  - "Practical"
 summary: "Retrofiting a horror-movie space."
 hero: "/images/posts/building-a-lab/hero.jpg"
 ---

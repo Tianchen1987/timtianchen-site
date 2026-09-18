@@ -3,6 +3,7 @@ title: "First journal article"
 date: 2017-04-01
 categories:
   - "Academia"
+  - "Practical"
 summary: "The bruising road to a first published paper."
 ---
 

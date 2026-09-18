@@ -3,6 +3,7 @@ title: "Foreign faculty on-boarding to US universities"
 date: 2024-01-28
 categories:
   - "Academia"
+  - "Practical"
 summary: "Opaque and deliberate difficulties: onboarding in the US."
 ---
 
